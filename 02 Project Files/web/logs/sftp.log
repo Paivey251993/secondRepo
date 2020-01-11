@@ -1,0 +1,1248 @@
+Oct 26 16:32:26 10.71.53.0 u98736630 Connection from 10.71.53.0 port 12728 on 74.208.58.143 port 22
+Oct 26 16:32:26 10.71.53.0 u98736630 Accepted password for u98736630 from 10.71.53.0 port 12728 ssh2
+Oct 26 16:32:26 10.71.53.0 u98736630 Starting session: subsystem 'sftp' for u98736630 from 10.71.53.0 port 12728
+Oct 26 16:32:26 10.71.53.0 u98736630 session opened for local user u98736630 from [10.71.53.0]
+Oct 26 16:32:27 10.71.53.0 u98736630 mkdir name "/MM_CASETEST4291" mode 0777
+Oct 26 16:32:27 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f4d4d5f434153455445535434323931|]
+Oct 26 16:32:27 10.71.53.0 u98736630 rmdir name "/mm_casetest4291"
+Oct 26 16:32:27 10.71.53.0 u98736630 [10.71.53.0|rmdir|0|0|0|0|2|2f6d6d5f636173657465737434323931|]
+Oct 26 16:32:27 10.71.53.0 u98736630 sent status No such file
+Oct 26 16:32:27 10.71.53.0 u98736630 sent status No such file
+Oct 26 16:32:27 10.71.53.0 u98736630 rmdir name "/MM_CASETEST4291"
+Oct 26 16:32:27 10.71.53.0 u98736630 [10.71.53.0|rmdir|0|0|0|0|0|2f4d4d5f434153455445535434323931|]
+Oct 26 16:32:27 10.71.53.0 u98736630 sent status No such file
+Oct 26 16:32:27 10.71.53.0 u98736630 sent status No such file
+Oct 26 16:38:52 10.71.53.0 u98736630 session closed for local user u98736630 from [10.71.53.0]
+Oct 26 16:38:52 10.71.53.0 u98736630 Connection closed by 10.71.53.0
+Oct 26 16:59:43 10.71.53.0 u98736630 Connection from 10.71.53.0 port 23578 on 74.208.58.143 port 22
+Oct 26 16:59:43 10.71.53.0 u98736630 Accepted password for u98736630 from 10.71.53.0 port 23578 ssh2
+Oct 26 16:59:43 10.71.53.0 u98736630 Starting session: subsystem 'sftp' for u98736630 from 10.71.53.0 port 23578
+Oct 26 16:59:43 10.71.53.0 u98736630 session opened for local user u98736630 from [10.71.53.0]
+Oct 26 16:59:44 10.71.53.0 u98736630 mkdir name "/MM_CASETEST4291" mode 0777
+Oct 26 16:59:44 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f4d4d5f434153455445535434323931|]
+Oct 26 16:59:44 10.71.53.0 u98736630 rmdir name "/mm_casetest4291"
+Oct 26 16:59:44 10.71.53.0 u98736630 [10.71.53.0|rmdir|0|0|0|0|2|2f6d6d5f636173657465737434323931|]
+Oct 26 16:59:44 10.71.53.0 u98736630 sent status No such file
+Oct 26 16:59:44 10.71.53.0 u98736630 sent status No such file
+Oct 26 16:59:44 10.71.53.0 u98736630 rmdir name "/MM_CASETEST4291"
+Oct 26 16:59:44 10.71.53.0 u98736630 [10.71.53.0|rmdir|0|0|0|0|0|2f4d4d5f434153455445535434323931|]
+Oct 26 16:59:44 10.71.53.0 u98736630 sent status No such file
+Oct 26 16:59:44 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:05:36 10.71.53.0 u98736630 mkdir name "/CRXDQWHFA27CRXDQWHFA" mode 0777
+Oct 26 17:05:36 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f4352584451574846413237435258445157484641|]
+Oct 26 17:05:36 10.71.53.0 u98736630 rmdir name "/CRXDQWHFA27CRXDQWHFA"
+Oct 26 17:05:36 10.71.53.0 u98736630 [10.71.53.0|rmdir|0|0|0|0|0|2f4352584451574846413237435258445157484641|]
+Oct 26 17:05:36 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:05:36 10.71.53.0 u98736630 open "/untitled.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:05:36 10.71.53.0 u98736630 close "/untitled.html" bytes read 0 written 128
+Oct 26 17:05:36 10.71.53.0 u98736630 [10.71.53.0|put|0|128|0|0|0|2f756e7469746c65642e68746d6c|]
+Oct 26 17:05:50 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:05:50 10.71.53.0 u98736630 rename old "/untitled.html" new "/.html"
+Oct 26 17:05:50 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f756e7469746c65642e68746d6c|2f2e68746d6c]
+Oct 26 17:05:50 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:06:05 10.71.53.0 u98736630 remove name "/.html.LCK"
+Oct 26 17:06:05 10.71.53.0 u98736630 [10.71.53.0|rm|0|0|0|0|2|2f2e68746d6c2e4c434b|]
+Oct 26 17:06:05 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:06:05 10.71.53.0 u98736630 remove name "/.html"
+Oct 26 17:06:05 10.71.53.0 u98736630 [10.71.53.0|rm|0|0|0|0|0|2f2e68746d6c|]
+Oct 26 17:06:55 10.71.53.0 u98736630 mkdir name "/downloads/CRXDQWHFA4570CRXDQWHFA" mode 0777
+Oct 26 17:06:55 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f646f776e6c6f6164732f43525844515748464134353730435258445157484641|]
+Oct 26 17:06:55 10.71.53.0 u98736630 rmdir name "/downloads/CRXDQWHFA4570CRXDQWHFA"
+Oct 26 17:06:55 10.71.53.0 u98736630 [10.71.53.0|rmdir|0|0|0|0|0|2f646f776e6c6f6164732f43525844515748464134353730435258445157484641|]
+Oct 26 17:06:56 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:06:56 10.71.53.0 u98736630 mkdir name "/downloads/untitled" mode 0777
+Oct 26 17:06:56 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f646f776e6c6f6164732f756e7469746c6564|]
+Oct 26 17:07:11 10.71.53.0 u98736630 mkdir name "/CRXDQWHFA5638CRXDQWHFA" mode 0777
+Oct 26 17:07:11 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f43525844515748464135363338435258445157484641|]
+Oct 26 17:07:11 10.71.53.0 u98736630 rmdir name "/CRXDQWHFA5638CRXDQWHFA"
+Oct 26 17:07:11 10.71.53.0 u98736630 [10.71.53.0|rmdir|0|0|0|0|0|2f43525844515748464135363338435258445157484641|]
+Oct 26 17:07:11 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:07:11 10.71.53.0 u98736630 open "/untitled.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:07:11 10.71.53.0 u98736630 close "/untitled.html" bytes read 0 written 128
+Oct 26 17:07:11 10.71.53.0 u98736630 [10.71.53.0|put|0|128|0|0|0|2f756e7469746c65642e68746d6c|]
+Oct 26 17:07:27 10.71.53.0 u98736630 mkdir name "/CRXDQWHFA354CRXDQWHFA" mode 0777
+Oct 26 17:07:27 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f435258445157484641333534435258445157484641|]
+Oct 26 17:07:27 10.71.53.0 u98736630 rmdir name "/CRXDQWHFA354CRXDQWHFA"
+Oct 26 17:07:27 10.71.53.0 u98736630 [10.71.53.0|rmdir|0|0|0|0|0|2f435258445157484641333534435258445157484641|]
+Oct 26 17:07:27 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:07:27 10.71.53.0 u98736630 mkdir name "/untitled" mode 0777
+Oct 26 17:07:27 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f756e7469746c6564|]
+Oct 26 17:07:57 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:07:57 10.71.53.0 u98736630 rename old "/untitled" new "/_archive"
+Oct 26 17:07:57 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f756e7469746c6564|2f5f61726368697665]
+Oct 26 17:07:57 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:08:17 10.71.53.0 u98736630 remove name "/untitled.html.LCK"
+Oct 26 17:08:17 10.71.53.0 u98736630 [10.71.53.0|rm|0|0|0|0|2|2f756e7469746c65642e68746d6c2e4c434b|]
+Oct 26 17:08:17 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:08:17 10.71.53.0 u98736630 remove name "/untitled.html"
+Oct 26 17:08:17 10.71.53.0 u98736630 [10.71.53.0|rm|0|0|0|0|0|2f756e7469746c65642e68746d6c|]
+Oct 26 17:09:03 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:03 10.71.53.0 u98736630 rename old "/downloads/2672065072.zip" new "/downloads/untitled/2672065072.zip"
+Oct 26 17:09:03 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f646f776e6c6f6164732f323637323036353037322e7a6970|2f646f776e6c6f6164732f756e7469746c65642f323637323036353037322e7a6970]
+Oct 26 17:09:05 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:06 10.71.53.0 u98736630 rename old "/img" new "/downloads/untitled/img"
+Oct 26 17:09:06 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f696d67|2f646f776e6c6f6164732f756e7469746c65642f696d67]
+Oct 26 17:09:06 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:06 10.71.53.0 u98736630 rename old "/logs" new "/downloads/untitled/logs"
+Oct 26 17:09:06 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|13|2f6c6f6773|2f646f776e6c6f6164732f756e7469746c65642f6c6f6773]
+Oct 26 17:09:06 10.71.53.0 u98736630 sent status Permission denied
+Oct 26 17:09:08 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:09 10.71.53.0 u98736630 rename old "/projects" new "/downloads/untitled/projects"
+Oct 26 17:09:09 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f70726f6a65637473|2f646f776e6c6f6164732f756e7469746c65642f70726f6a65637473]
+Oct 26 17:09:09 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:09 10.71.53.0 u98736630 rename old "/12things.html" new "/downloads/untitled/12things.html"
+Oct 26 17:09:09 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f31327468696e67732e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f31327468696e67732e68746d6c]
+Oct 26 17:09:09 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:10 10.71.53.0 u98736630 rename old "/51LAgoYYCVL._SX320_BO1,204,203,200_.jpg" new "/downloads/untitled/51LAgoYYCVL._SX320_BO1,204,203,200_.jpg"
+Oct 26 17:09:10 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f35314c41676f595943564c2e5f53583332305f424f312c3230342c3230332c3230305f2e6a7067|2f646f776e6c6f6164732f756e7469746c65642f35314c41676f595943564c2e5f53583332305f424f312c3230342c3230332c3230305f2e6a7067]
+Oct 26 17:09:10 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:11 10.71.53.0 u98736630 rename old "/asset1.png" new "/downloads/untitled/asset1.png"
+Oct 26 17:09:11 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f6173736574312e706e67|2f646f776e6c6f6164732f756e7469746c65642f6173736574312e706e67]
+Oct 26 17:09:11 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:11 10.71.53.0 u98736630 rename old "/BAK.INDEX.html" new "/downloads/untitled/BAK.INDEX.html"
+Oct 26 17:09:11 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f42414b2e494e4445582e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f42414b2e494e4445582e68746d6c]
+Oct 26 17:09:11 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:11 10.71.53.0 u98736630 rename old "/bands.html" new "/downloads/untitled/bands.html"
+Oct 26 17:09:11 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f62616e64732e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f62616e64732e68746d6c]
+Oct 26 17:09:11 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:12 10.71.53.0 u98736630 rename old "/bar.jpg" new "/downloads/untitled/bar.jpg"
+Oct 26 17:09:12 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f6261722e6a7067|2f646f776e6c6f6164732f756e7469746c65642f6261722e6a7067]
+Oct 26 17:09:12 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:12 10.71.53.0 u98736630 rename old "/books.html" new "/downloads/untitled/books.html"
+Oct 26 17:09:12 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f626f6f6b732e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f626f6f6b732e68746d6c]
+Oct 26 17:09:12 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:12 10.71.53.0 u98736630 rename old "/Bootcamp.html" new "/downloads/untitled/Bootcamp.html"
+Oct 26 17:09:12 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f426f6f7463616d702e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f426f6f7463616d702e68746d6c]
+Oct 26 17:09:12 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:12 10.71.53.0 u98736630 rename old "/building.jpg" new "/downloads/untitled/building.jpg"
+Oct 26 17:09:12 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f6275696c64696e672e6a7067|2f646f776e6c6f6164732f756e7469746c65642f6275696c64696e672e6a7067]
+Oct 26 17:09:13 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:13 10.71.53.0 u98736630 rename old "/card.jpg" new "/downloads/untitled/card.jpg"
+Oct 26 17:09:13 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f636172642e6a7067|2f646f776e6c6f6164732f756e7469746c65642f636172642e6a7067]
+Oct 26 17:09:13 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:13 10.71.53.0 u98736630 rename old "/constitution.html" new "/downloads/untitled/constitution.html"
+Oct 26 17:09:13 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f636f6e737469747574696f6e2e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f636f6e737469747574696f6e2e68746d6c]
+Oct 26 17:09:13 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:13 10.71.53.0 u98736630 rename old "/Experience.html" new "/downloads/untitled/Experience.html"
+Oct 26 17:09:13 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f457870657269656e63652e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f457870657269656e63652e68746d6c]
+Oct 26 17:09:14 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:14 10.71.53.0 u98736630 rename old "/index.html" new "/downloads/untitled/index.html"
+Oct 26 17:09:14 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f696e6465782e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f696e6465782e68746d6c]
+Oct 26 17:09:14 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:14 10.71.53.0 u98736630 rename old "/Insidephilly.html" new "/downloads/untitled/Insidephilly.html"
+Oct 26 17:09:14 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f496e736964657068696c6c792e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f496e736964657068696c6c792e68746d6c]
+Oct 26 17:09:14 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:15 10.71.53.0 u98736630 rename old "/learned.html" new "/downloads/untitled/learned.html"
+Oct 26 17:09:15 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f6c6561726e65642e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f6c6561726e65642e68746d6c]
+Oct 26 17:09:15 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:15 10.71.53.0 u98736630 rename old "/movies.html" new "/downloads/untitled/movies.html"
+Oct 26 17:09:15 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f6d6f766965732e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f6d6f766965732e68746d6c]
+Oct 26 17:09:15 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:15 10.71.53.0 u98736630 rename old "/tickets.html" new "/downloads/untitled/tickets.html"
+Oct 26 17:09:15 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f7469636b6574732e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f7469636b6574732e68746d6c]
+Oct 26 17:09:15 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:15 10.71.53.0 u98736630 rename old "/Week1.html" new "/downloads/untitled/Week1.html"
+Oct 26 17:09:15 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f5765656b312e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f5765656b312e68746d6c]
+Oct 26 17:09:16 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:16 10.71.53.0 u98736630 rename old "/Week2.html" new "/downloads/untitled/Week2.html"
+Oct 26 17:09:16 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f5765656b322e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f5765656b322e68746d6c]
+Oct 26 17:09:16 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:16 10.71.53.0 u98736630 rename old "/Week3.html" new "/downloads/untitled/Week3.html"
+Oct 26 17:09:16 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f5765656b332e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f5765656b332e68746d6c]
+Oct 26 17:09:16 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:16 10.71.53.0 u98736630 rename old "/Week4.html" new "/downloads/untitled/Week4.html"
+Oct 26 17:09:16 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f5765656b342e68746d6c|2f646f776e6c6f6164732f756e7469746c65642f5765656b342e68746d6c]
+Oct 26 17:09:58 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:09:59 10.71.53.0 u98736630 rename old "/logs" new "/_archive/logs"
+Oct 26 17:09:59 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|13|2f6c6f6773|2f5f617263686976652f6c6f6773]
+Oct 26 17:09:59 10.71.53.0 u98736630 sent status Permission denied
+Oct 26 17:10:07 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:10:07 10.71.53.0 u98736630 rename old "/downloads" new "/_archive/downloads"
+Oct 26 17:10:07 10.71.53.0 u98736630 [10.71.53.0|rename|0|0|0|0|0|2f646f776e6c6f616473|2f5f617263686976652f646f776e6c6f616473]
+Oct 26 17:10:50 10.71.53.0 u98736630 mkdir name "/xyiznwsk" mode 0777
+Oct 26 17:10:50 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f7879697a6e77736b|]
+Oct 26 17:10:50 10.71.53.0 u98736630 rmdir name "/xyiznwsk"
+Oct 26 17:10:50 10.71.53.0 u98736630 [10.71.53.0|rmdir|0|0|0|0|0|2f7879697a6e77736b|]
+Oct 26 17:10:51 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:10:51 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:10:51 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:10:51 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:10:51 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:10:51 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:11:11 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:11:11 10.71.53.0 u98736630 mkdir name "/downloads" mode 0777
+Oct 26 17:11:11 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f646f776e6c6f616473|]
+Oct 26 17:11:12 10.71.53.0 u98736630 open "/downloads/2672065072.zip" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:12 10.71.53.0 u98736630 close "/downloads/2672065072.zip" bytes read 0 written 220532
+Oct 26 17:11:12 10.71.53.0 u98736630 [10.71.53.0|put|0|220532|0|0|0|2f646f776e6c6f6164732f323637323036353037322e7a6970|]
+Oct 26 17:11:13 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:11:13 10.71.53.0 u98736630 mkdir name "/img" mode 0777
+Oct 26 17:11:13 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f696d67|]
+Oct 26 17:11:13 10.71.53.0 u98736630 open "/img/51LAgoYYCVL._SX320_BO1,204,203,200_.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:14 10.71.53.0 u98736630 close "/img/51LAgoYYCVL._SX320_BO1,204,203,200_.jpg" bytes read 0 written 40737
+Oct 26 17:11:14 10.71.53.0 u98736630 [10.71.53.0|put|1|40737|0|0|0|2f696d672f35314c41676f595943564c2e5f53583332305f424f312c3230342c3230332c3230305f2e6a7067|]
+Oct 26 17:11:14 10.71.53.0 u98736630 open "/img/akon.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:14 10.71.53.0 u98736630 close "/img/akon.jpg" bytes read 0 written 186447
+Oct 26 17:11:14 10.71.53.0 u98736630 [10.71.53.0|put|0|186447|0|0|0|2f696d672f616b6f6e2e6a7067|]
+Oct 26 17:11:14 10.71.53.0 u98736630 open "/img/amada.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:14 10.71.53.0 u98736630 close "/img/amada.jpg" bytes read 0 written 72155
+Oct 26 17:11:14 10.71.53.0 u98736630 [10.71.53.0|put|0|72155|0|0|0|2f696d672f616d6164612e6a7067|]
+Oct 26 17:11:15 10.71.53.0 u98736630 open "/img/American Ninja.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:15 10.71.53.0 u98736630 close "/img/American Ninja.jpg" bytes read 0 written 36756
+Oct 26 17:11:15 10.71.53.0 u98736630 [10.71.53.0|put|0|36756|0|0|0|2f696d672f416d65726963616e204e696e6a612e6a7067|]
+Oct 26 17:11:15 10.71.53.0 u98736630 open "/img/arrow.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:15 10.71.53.0 u98736630 close "/img/arrow.jpg" bytes read 0 written 144885
+Oct 26 17:11:15 10.71.53.0 u98736630 [10.71.53.0|put|0|144885|0|0|0|2f696d672f6172726f772e6a7067|]
+Oct 26 17:11:15 10.71.53.0 u98736630 open "/img/asset1.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:18 10.71.53.0 u98736630 close "/img/asset1.png" bytes read 0 written 7018898
+Oct 26 17:11:18 10.71.53.0 u98736630 [10.71.53.0|put|3|7018898|0|0|0|2f696d672f6173736574312e706e67|]
+Oct 26 17:11:18 10.71.53.0 u98736630 open "/img/asset2.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:21 10.71.53.0 u98736630 close "/img/asset2.png" bytes read 0 written 6874170
+Oct 26 17:11:21 10.71.53.0 u98736630 [10.71.53.0|put|3|6874170|0|0|0|2f696d672f6173736574322e706e67|]
+Oct 26 17:11:21 10.71.53.0 u98736630 open "/img/asset3.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:23 10.71.53.0 u98736630 close "/img/asset3.png" bytes read 0 written 7224552
+Oct 26 17:11:23 10.71.53.0 u98736630 [10.71.53.0|put|2|7224552|0|0|0|2f696d672f6173736574332e706e67|]
+Oct 26 17:11:23 10.71.53.0 u98736630 open "/img/bar.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:24 10.71.53.0 u98736630 close "/img/bar.jpg" bytes read 0 written 190225
+Oct 26 17:11:24 10.71.53.0 u98736630 [10.71.53.0|put|1|190225|0|0|0|2f696d672f6261722e6a7067|]
+Oct 26 17:11:24 10.71.53.0 u98736630 open "/img/becoming michelle obama.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:24 10.71.53.0 u98736630 close "/img/becoming michelle obama.jpg" bytes read 0 written 39080
+Oct 26 17:11:24 10.71.53.0 u98736630 [10.71.53.0|put|0|39080|0|0|0|2f696d672f6265636f6d696e67206d696368656c6c65206f62616d612e6a7067|]
+Oct 26 17:11:24 10.71.53.0 u98736630 open "/img/blood diamond.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:24 10.71.53.0 u98736630 close "/img/blood diamond.jpg" bytes read 0 written 23249
+Oct 26 17:11:24 10.71.53.0 u98736630 [10.71.53.0|put|0|23249|0|0|0|2f696d672f626c6f6f64206469616d6f6e642e6a7067|]
+Oct 26 17:11:25 10.71.53.0 u98736630 open "/img/book.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:25 10.71.53.0 u98736630 close "/img/book.jpg" bytes read 0 written 24720
+Oct 26 17:11:25 10.71.53.0 u98736630 [10.71.53.0|put|0|24720|0|0|0|2f696d672f626f6f6b2e6a7067|]
+Oct 26 17:11:25 10.71.53.0 u98736630 open "/img/boyz.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:25 10.71.53.0 u98736630 close "/img/boyz.jpg" bytes read 0 written 156152
+Oct 26 17:11:25 10.71.53.0 u98736630 [10.71.53.0|put|0|156152|0|0|0|2f696d672f626f797a2e6a7067|]
+Oct 26 17:11:25 10.71.53.0 u98736630 open "/img/building.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:26 10.71.53.0 u98736630 close "/img/building.jpg" bytes read 0 written 1571232
+Oct 26 17:11:26 10.71.53.0 u98736630 [10.71.53.0|put|1|1571232|0|0|0|2f696d672f6275696c64696e672e6a7067|]
+Oct 26 17:11:26 10.71.53.0 u98736630 open "/img/card.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:27 10.71.53.0 u98736630 close "/img/card.jpg" bytes read 0 written 1099047
+Oct 26 17:11:27 10.71.53.0 u98736630 [10.71.53.0|put|1|1099047|0|0|0|2f696d672f636172642e6a7067|]
+Oct 26 17:11:27 10.71.53.0 u98736630 open "/img/cheerystpierre.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:27 10.71.53.0 u98736630 close "/img/cheerystpierre.jpg" bytes read 0 written 293785
+Oct 26 17:11:27 10.71.53.0 u98736630 [10.71.53.0|put|0|293785|0|0|0|2f696d672f63686565727973747069657272652e6a7067|]
+Oct 26 17:11:28 10.71.53.0 u98736630 open "/img/cherry-street1.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:28 10.71.53.0 u98736630 close "/img/cherry-street1.jpg" bytes read 0 written 345341
+Oct 26 17:11:28 10.71.53.0 u98736630 [10.71.53.0|put|0|345341|0|0|0|2f696d672f6368657272792d737472656574312e6a7067|]
+Oct 26 17:11:28 10.71.53.0 u98736630 open "/img/chris brown.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:28 10.71.53.0 u98736630 close "/img/chris brown.jpg" bytes read 0 written 140056
+Oct 26 17:11:28 10.71.53.0 u98736630 [10.71.53.0|put|0|140056|0|0|0|2f696d672f63687269732062726f776e2e6a7067|]
+Oct 26 17:11:28 10.71.53.0 u98736630 open "/img/constitution2.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:31 10.71.53.0 u98736630 close "/img/constitution2.png" bytes read 0 written 7146882
+Oct 26 17:11:31 10.71.53.0 u98736630 [10.71.53.0|put|3|7146882|0|0|0|2f696d672f636f6e737469747574696f6e322e706e67|]
+Oct 26 17:11:31 10.71.53.0 u98736630 open "/img/davido.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:31 10.71.53.0 u98736630 close "/img/davido.jpg" bytes read 0 written 61591
+Oct 26 17:11:31 10.71.53.0 u98736630 [10.71.53.0|put|0|61591|0|0|0|2f696d672f64617669646f2e6a7067|]
+Oct 26 17:11:32 10.71.53.0 u98736630 open "/img/death.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:32 10.71.53.0 u98736630 close "/img/death.jpg" bytes read 0 written 843714
+Oct 26 17:11:32 10.71.53.0 u98736630 [10.71.53.0|put|0|843714|0|0|0|2f696d672f64656174682e6a7067|]
+Oct 26 17:11:32 10.71.53.0 u98736630 open "/img/donout.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:33 10.71.53.0 u98736630 close "/img/donout.jpg" bytes read 0 written 159897
+Oct 26 17:11:33 10.71.53.0 u98736630 [10.71.53.0|put|1|159897|0|0|0|2f696d672f646f6e6f75742e6a7067|]
+Oct 26 17:11:33 10.71.53.0 u98736630 open "/img/drake.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:33 10.71.53.0 u98736630 close "/img/drake.jpg" bytes read 0 written 150582
+Oct 26 17:11:33 10.71.53.0 u98736630 [10.71.53.0|put|0|150582|0|0|0|2f696d672f6472616b652e6a7067|]
+Oct 26 17:11:33 10.71.53.0 u98736630 open "/img/federal-donuts.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:33 10.71.53.0 u98736630 close "/img/federal-donuts.jpg" bytes read 0 written 159897
+Oct 26 17:11:33 10.71.53.0 u98736630 [10.71.53.0|put|0|159897|0|0|0|2f696d672f6665646572616c2d646f6e7574732e6a7067|]
+Oct 26 17:11:34 10.71.53.0 u98736630 open "/img/federal_do.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:34 10.71.53.0 u98736630 close "/img/federal_do.jpg" bytes read 0 written 82252
+Oct 26 17:11:34 10.71.53.0 u98736630 [10.71.53.0|put|0|82252|0|0|0|2f696d672f6665646572616c5f646f2e6a7067|]
+Oct 26 17:11:34 10.71.53.0 u98736630 open "/img/float.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:34 10.71.53.0 u98736630 close "/img/float.jpg" bytes read 0 written 142080
+Oct 26 17:11:34 10.71.53.0 u98736630 [10.71.53.0|put|0|142080|0|0|0|2f696d672f666c6f61742e6a7067|]
+Oct 26 17:11:35 10.71.53.0 u98736630 open "/img/funnel.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:35 10.71.53.0 u98736630 close "/img/funnel.jpg" bytes read 0 written 1476276
+Oct 26 17:11:35 10.71.53.0 u98736630 [10.71.53.0|put|0|1476276|0|0|0|2f696d672f66756e6e656c2e6a7067|]
+Oct 26 17:11:36 10.71.53.0 u98736630 open "/img/gifted hands.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:36 10.71.53.0 u98736630 close "/img/gifted hands.jpg" bytes read 0 written 36432
+Oct 26 17:11:36 10.71.53.0 u98736630 [10.71.53.0|put|0|36432|0|0|0|2f696d672f6769667465642068616e64732e6a7067|]
+Oct 26 17:11:36 10.71.53.0 u98736630 open "/img/guwor.JPG" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:36 10.71.53.0 u98736630 close "/img/guwor.JPG" bytes read 0 written 634449
+Oct 26 17:11:36 10.71.53.0 u98736630 [10.71.53.0|put|0|634449|0|0|0|2f696d672f6775776f722e4a5047|]
+Oct 26 17:11:37 10.71.53.0 u98736630 open "/img/holy bible.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:37 10.71.53.0 u98736630 close "/img/holy bible.jpg" bytes read 0 written 6807
+Oct 26 17:11:37 10.71.53.0 u98736630 [10.71.53.0|put|1|6807|0|0|0|2f696d672f686f6c79206269626c652e6a7067|]
+Oct 26 17:11:37 10.71.53.0 u98736630 open "/img/HUSSIAN.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:37 10.71.53.0 u98736630 close "/img/HUSSIAN.png" bytes read 0 written 269909
+Oct 26 17:11:37 10.71.53.0 u98736630 [10.71.53.0|put|0|269909|0|0|0|2f696d672f4855535349414e2e706e67|]
+Oct 26 17:11:37 10.71.53.0 u98736630 open "/img/In love with the church girl.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:37 10.71.53.0 u98736630 close "/img/In love with the church girl.jpg" bytes read 0 written 68701
+Oct 26 17:11:37 10.71.53.0 u98736630 [10.71.53.0|put|0|68701|0|0|0|2f696d672f496e206c6f766520776974682074686520636875726368206769726c2e6a7067|]
+Oct 26 17:11:38 10.71.53.0 u98736630 open "/img/jayz.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:38 10.71.53.0 u98736630 close "/img/jayz.jpg" bytes read 0 written 223117
+Oct 26 17:11:38 10.71.53.0 u98736630 [10.71.53.0|put|0|223117|0|0|0|2f696d672f6a61797a2e6a7067|]
+Oct 26 17:11:38 10.71.53.0 u98736630 open "/img/laptop2.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:40 10.71.53.0 u98736630 close "/img/laptop2.png" bytes read 0 written 6282880
+Oct 26 17:11:40 10.71.53.0 u98736630 [10.71.53.0|put|2|6282880|0|0|0|2f696d672f6c6170746f70322e706e67|]
+Oct 26 17:11:41 10.71.53.0 u98736630 open "/img/laptop4.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:43 10.71.53.0 u98736630 close "/img/laptop4.png" bytes read 0 written 6282880
+Oct 26 17:11:43 10.71.53.0 u98736630 [10.71.53.0|put|2|6282880|0|0|0|2f696d672f6c6170746f70342e706e67|]
+Oct 26 17:11:43 10.71.53.0 u98736630 open "/img/law of sucess.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:43 10.71.53.0 u98736630 close "/img/law of sucess.jpg" bytes read 0 written 30541
+Oct 26 17:11:43 10.71.53.0 u98736630 [10.71.53.0|put|0|30541|0|0|0|2f696d672f6c6177206f66207375636573732e6a7067|]
+Oct 26 17:11:43 10.71.53.0 u98736630 open "/img/law of sucess.webp" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:43 10.71.53.0 u98736630 close "/img/law of sucess.webp" bytes read 0 written 6598
+Oct 26 17:11:43 10.71.53.0 u98736630 [10.71.53.0|put|0|6598|0|0|0|2f696d672f6c6177206f66207375636573732e77656270|]
+Oct 26 17:11:44 10.71.53.0 u98736630 open "/img/lawn.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:45 10.71.53.0 u98736630 close "/img/lawn.jpg" bytes read 0 written 4155210
+Oct 26 17:11:45 10.71.53.0 u98736630 [10.71.53.0|put|1|4155210|0|0|0|2f696d672f6c61776e2e6a7067|]
+Oct 26 17:11:45 10.71.53.0 u98736630 open "/img/live your dream.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:46 10.71.53.0 u98736630 close "/img/live your dream.jpg" bytes read 0 written 24295
+Oct 26 17:11:46 10.71.53.0 u98736630 [10.71.53.0|put|1|24295|0|0|0|2f696d672f6c69766520796f757220647265616d2e6a7067|]
+Oct 26 17:11:46 10.71.53.0 u98736630 open "/img/love.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:46 10.71.53.0 u98736630 close "/img/love.jpg" bytes read 0 written 182969
+Oct 26 17:11:46 10.71.53.0 u98736630 [10.71.53.0|put|0|182969|0|0|0|2f696d672f6c6f76652e6a7067|]
+Oct 26 17:11:46 10.71.53.0 u98736630 open "/img/merlin.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:46 10.71.53.0 u98736630 close "/img/merlin.jpg" bytes read 0 written 41129
+Oct 26 17:11:46 10.71.53.0 u98736630 [10.71.53.0|put|0|41129|0|0|0|2f696d672f6d65726c696e2e6a7067|]
+Oct 26 17:11:47 10.71.53.0 u98736630 open "/img/movie.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:47 10.71.53.0 u98736630 close "/img/movie.jpg" bytes read 0 written 38705
+Oct 26 17:11:47 10.71.53.0 u98736630 [10.71.53.0|put|0|38705|0|0|0|2f696d672f6d6f7669652e6a7067|]
+Oct 26 17:11:47 10.71.53.0 u98736630 open "/img/mr p.jpeg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:47 10.71.53.0 u98736630 close "/img/mr p.jpeg" bytes read 0 written 24660
+Oct 26 17:11:47 10.71.53.0 u98736630 [10.71.53.0|put|0|24660|0|0|0|2f696d672f6d7220702e6a706567|]
+Oct 26 17:11:47 10.71.53.0 u98736630 open "/img/music.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:47 10.71.53.0 u98736630 close "/img/music.jpg" bytes read 0 written 45291
+Oct 26 17:11:47 10.71.53.0 u98736630 [10.71.53.0|put|0|45291|0|0|0|2f696d672f6d757369632e6a7067|]
+Oct 26 17:11:48 10.71.53.0 u98736630 open "/img/p.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:48 10.71.53.0 u98736630 close "/img/p.jpg" bytes read 0 written 57698
+Oct 26 17:11:48 10.71.53.0 u98736630 [10.71.53.0|put|0|57698|0|0|0|2f696d672f702e6a7067|]
+Oct 26 17:11:48 10.71.53.0 u98736630 open "/img/panorama.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:48 10.71.53.0 u98736630 close "/img/panorama.jpg" bytes read 0 written 70912
+Oct 26 17:11:48 10.71.53.0 u98736630 [10.71.53.0|put|0|70912|0|0|0|2f696d672f70616e6f72616d612e6a7067|]
+Oct 26 17:11:48 10.71.53.0 u98736630 open "/img/PMG_Logo.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:49 10.71.53.0 u98736630 close "/img/PMG_Logo.png" bytes read 0 written 44508
+Oct 26 17:11:49 10.71.53.0 u98736630 [10.71.53.0|put|1|44508|0|0|0|2f696d672f504d475f4c6f676f2e706e67|]
+Oct 26 17:11:49 10.71.53.0 u98736630 open "/img/power.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:49 10.71.53.0 u98736630 close "/img/power.jpg" bytes read 0 written 134266
+Oct 26 17:11:49 10.71.53.0 u98736630 [10.71.53.0|put|0|134266|0|0|0|2f696d672f706f7765722e6a7067|]
+Oct 26 17:11:49 10.71.53.0 u98736630 open "/img/prision break.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:49 10.71.53.0 u98736630 close "/img/prision break.jpg" bytes read 0 written 34376
+Oct 26 17:11:49 10.71.53.0 u98736630 [10.71.53.0|put|0|34376|0|0|0|2f696d672f70726973696f6e20627265616b2e6a7067|]
+Oct 26 17:11:50 10.71.53.0 u98736630 open "/img/Proclamation.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:50 10.71.53.0 u98736630 close "/img/Proclamation.jpg" bytes read 0 written 1600589
+Oct 26 17:11:50 10.71.53.0 u98736630 [10.71.53.0|put|0|1600589|0|0|0|2f696d672f50726f636c616d6174696f6e2e6a7067|]
+Oct 26 17:11:51 10.71.53.0 u98736630 open "/img/Rambo.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:51 10.71.53.0 u98736630 close "/img/Rambo.jpg" bytes read 0 written 508106
+Oct 26 17:11:51 10.71.53.0 u98736630 [10.71.53.0|put|0|508106|0|0|0|2f696d672f52616d626f2e6a7067|]
+Oct 26 17:11:51 10.71.53.0 u98736630 open "/img/raxxvintage.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:51 10.71.53.0 u98736630 close "/img/raxxvintage.jpg" bytes read 0 written 126976
+Oct 26 17:11:51 10.71.53.0 u98736630 [10.71.53.0|put|0|126976|0|0|0|2f696d672f7261787876696e746167652e6a7067|]
+Oct 26 17:11:52 10.71.53.0 u98736630 open "/img/reading.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:52 10.71.53.0 u98736630 close "/img/reading.jpg" bytes read 0 written 213286
+Oct 26 17:11:52 10.71.53.0 u98736630 [10.71.53.0|put|0|213286|0|0|0|2f696d672f72656164696e672e6a7067|]
+Oct 26 17:11:52 10.71.53.0 u98736630 open "/img/readingterninal.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:52 10.71.53.0 u98736630 close "/img/readingterninal.jpg" bytes read 0 written 275595
+Oct 26 17:11:52 10.71.53.0 u98736630 [10.71.53.0|put|0|275595|0|0|0|2f696d672f72656164696e677465726e696e616c2e6a7067|]
+Oct 26 17:11:53 10.71.53.0 u98736630 open "/img/rkelly.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:53 10.71.53.0 u98736630 close "/img/rkelly.jpg" bytes read 0 written 148916
+Oct 26 17:11:53 10.71.53.0 u98736630 [10.71.53.0|put|0|148916|0|0|0|2f696d672f726b656c6c792e6a7067|]
+Oct 26 17:11:53 10.71.53.0 u98736630 open "/img/some time in April.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:55 10.71.53.0 u98736630 close "/img/some time in April.jpg" bytes read 0 written 4496155
+Oct 26 17:11:55 10.71.53.0 u98736630 [10.71.53.0|put|2|4496155|0|0|0|2f696d672f736f6d652074696d6520696e20417072696c2e6a7067|]
+Oct 26 17:11:55 10.71.53.0 u98736630 open "/img/sort.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:55 10.71.53.0 u98736630 close "/img/sort.jpg" bytes read 0 written 37509
+Oct 26 17:11:55 10.71.53.0 u98736630 [10.71.53.0|put|0|37509|0|0|0|2f696d672f736f72742e6a7067|]
+Oct 26 17:11:55 10.71.53.0 u98736630 open "/img/southstreet.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:55 10.71.53.0 u98736630 close "/img/southstreet.jpg" bytes read 0 written 255284
+Oct 26 17:11:55 10.71.53.0 u98736630 [10.71.53.0|put|0|255284|0|0|0|2f696d672f736f7574687374726565742e6a7067|]
+Oct 26 17:11:56 10.71.53.0 u98736630 open "/img/spartacus.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:56 10.71.53.0 u98736630 close "/img/spartacus.jpg" bytes read 0 written 90377
+Oct 26 17:11:56 10.71.53.0 u98736630 [10.71.53.0|put|0|90377|0|0|0|2f696d672f7370617274616375732e6a7067|]
+Oct 26 17:11:56 10.71.53.0 u98736630 open "/img/street.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:56 10.71.53.0 u98736630 close "/img/street.jpg" bytes read 0 written 347159
+Oct 26 17:11:56 10.71.53.0 u98736630 [10.71.53.0|put|0|347159|0|0|0|2f696d672f7374726565742e6a7067|]
+Oct 26 17:11:57 10.71.53.0 u98736630 open "/img/superfly.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:57 10.71.53.0 u98736630 close "/img/superfly.jpg" bytes read 0 written 39915
+Oct 26 17:11:57 10.71.53.0 u98736630 [10.71.53.0|put|0|39915|0|0|0|2f696d672f7375706572666c792e6a7067|]
+Oct 26 17:11:57 10.71.53.0 u98736630 open "/img/talulas.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:57 10.71.53.0 u98736630 close "/img/talulas.jpg" bytes read 0 written 124633
+Oct 26 17:11:57 10.71.53.0 u98736630 [10.71.53.0|put|0|124633|0|0|0|2f696d672f74616c756c61732e6a7067|]
+Oct 26 17:11:57 10.71.53.0 u98736630 open "/img/terminal.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:58 10.71.53.0 u98736630 close "/img/terminal.jpg" bytes read 0 written 416311
+Oct 26 17:11:58 10.71.53.0 u98736630 [10.71.53.0|put|1|416311|0|0|0|2f696d672f7465726d696e616c2e6a7067|]
+Oct 26 17:11:58 10.71.53.0 u98736630 open "/img/the great controversy.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:58 10.71.53.0 u98736630 close "/img/the great controversy.jpg" bytes read 0 written 39617
+Oct 26 17:11:58 10.71.53.0 u98736630 [10.71.53.0|put|0|39617|0|0|0|2f696d672f74686520677265617420636f6e74726f76657273792e6a7067|]
+Oct 26 17:11:58 10.71.53.0 u98736630 open "/img/the rain and the night.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:58 10.71.53.0 u98736630 close "/img/the rain and the night.jpg" bytes read 0 written 190301
+Oct 26 17:11:58 10.71.53.0 u98736630 [10.71.53.0|put|0|190301|0|0|0|2f696d672f746865207261696e20616e6420746865206e696768742e6a7067|]
+Oct 26 17:11:59 10.71.53.0 u98736630 open "/img/think and grow rich.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:59 10.71.53.0 u98736630 close "/img/think and grow rich.png" bytes read 0 written 57967
+Oct 26 17:11:59 10.71.53.0 u98736630 [10.71.53.0|put|0|57967|0|0|0|2f696d672f7468696e6b20616e642067726f7720726963682e706e67|]
+Oct 26 17:11:59 10.71.53.0 u98736630 open "/img/think big.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:11:59 10.71.53.0 u98736630 close "/img/think big.jpg" bytes read 0 written 46244
+Oct 26 17:11:59 10.71.53.0 u98736630 [10.71.53.0|put|0|46244|0|0|0|2f696d672f7468696e6b206269672e6a7067|]
+Oct 26 17:11:59 10.71.53.0 u98736630 open "/img/usher.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:00 10.71.53.0 u98736630 close "/img/usher.jpg" bytes read 0 written 137834
+Oct 26 17:12:00 10.71.53.0 u98736630 [10.71.53.0|put|1|137834|0|0|0|2f696d672f75736865722e6a7067|]
+Oct 26 17:12:00 10.71.53.0 u98736630 open "/img/walk.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:00 10.71.53.0 u98736630 close "/img/walk.jpg" bytes read 0 written 270621
+Oct 26 17:12:00 10.71.53.0 u98736630 [10.71.53.0|put|0|270621|0|0|0|2f696d672f77616c6b2e6a7067|]
+Oct 26 17:12:00 10.71.53.0 u98736630 open "/img/westlife.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:00 10.71.53.0 u98736630 close "/img/westlife.jpg" bytes read 0 written 51926
+Oct 26 17:12:00 10.71.53.0 u98736630 [10.71.53.0|put|0|51926|0|0|0|2f696d672f776573746c6966652e6a7067|]
+Oct 26 17:12:01 10.71.53.0 u98736630 open "/img/womensrights.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:01 10.71.53.0 u98736630 close "/img/womensrights.jpg" bytes read 0 written 1140663
+Oct 26 17:12:01 10.71.53.0 u98736630 [10.71.53.0|put|0|1140663|0|0|0|2f696d672f776f6d656e737269676874732e6a7067|]
+Oct 26 17:12:02 10.71.53.0 u98736630 open "/img/zagar.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:02 10.71.53.0 u98736630 close "/img/zagar.jpg" bytes read 0 written 434352
+Oct 26 17:12:02 10.71.53.0 u98736630 [10.71.53.0|put|0|434352|0|0|0|2f696d672f7a616761722e6a7067|]
+Oct 26 17:12:02 10.71.53.0 u98736630 open "/img/zagar2.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:02 10.71.53.0 u98736630 close "/img/zagar2.jpg" bytes read 0 written 508433
+Oct 26 17:12:02 10.71.53.0 u98736630 [10.71.53.0|put|0|508433|0|0|0|2f696d672f7a61676172322e6a7067|]
+Oct 26 17:12:03 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:12:03 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:12:03 10.71.53.0 u98736630 mkdir name "/NEW" mode 0777
+Oct 26 17:12:03 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f4e4557|]
+Oct 26 17:12:03 10.71.53.0 u98736630 mkdir name "/NEW/img" mode 0777
+Oct 26 17:12:03 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f4e45572f696d67|]
+Oct 26 17:12:03 10.71.53.0 u98736630 open "/NEW/img/amada.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:04 10.71.53.0 u98736630 close "/NEW/img/amada.jpg" bytes read 0 written 72155
+Oct 26 17:12:04 10.71.53.0 u98736630 [10.71.53.0|put|1|72155|0|0|0|2f4e45572f696d672f616d6164612e6a7067|]
+Oct 26 17:12:04 10.71.53.0 u98736630 open "/NEW/img/asset3.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:06 10.71.53.0 u98736630 close "/NEW/img/asset3.png" bytes read 0 written 7224552
+Oct 26 17:12:06 10.71.53.0 u98736630 [10.71.53.0|put|2|7224552|0|0|0|2f4e45572f696d672f6173736574332e706e67|]
+Oct 26 17:12:07 10.71.53.0 u98736630 open "/NEW/img/building.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:07 10.71.53.0 u98736630 close "/NEW/img/building.jpg" bytes read 0 written 1571232
+Oct 26 17:12:07 10.71.53.0 u98736630 [10.71.53.0|put|0|1571232|0|0|0|2f4e45572f696d672f6275696c64696e672e6a7067|]
+Oct 26 17:12:08 10.71.53.0 u98736630 open "/NEW/img/cheerystpierre.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:08 10.71.53.0 u98736630 close "/NEW/img/cheerystpierre.jpg" bytes read 0 written 293785
+Oct 26 17:12:08 10.71.53.0 u98736630 [10.71.53.0|put|0|293785|0|0|0|2f4e45572f696d672f63686565727973747069657272652e6a7067|]
+Oct 26 17:12:08 10.71.53.0 u98736630 open "/NEW/img/cherry-street1.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:08 10.71.53.0 u98736630 close "/NEW/img/cherry-street1.jpg" bytes read 0 written 345341
+Oct 26 17:12:08 10.71.53.0 u98736630 [10.71.53.0|put|0|345341|0|0|0|2f4e45572f696d672f6368657272792d737472656574312e6a7067|]
+Oct 26 17:12:09 10.71.53.0 u98736630 open "/NEW/img/chstreet.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:09 10.71.53.0 u98736630 close "/NEW/img/chstreet.jpg" bytes read 0 written 255284
+Oct 26 17:12:09 10.71.53.0 u98736630 [10.71.53.0|put|0|255284|0|0|0|2f4e45572f696d672f63687374726565742e6a7067|]
+Oct 26 17:12:09 10.71.53.0 u98736630 open "/NEW/img/constitution2.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:11 10.71.53.0 u98736630 close "/NEW/img/constitution2.png" bytes read 0 written 7146882
+Oct 26 17:12:11 10.71.53.0 u98736630 [10.71.53.0|put|2|7146882|0|0|0|2f4e45572f696d672f636f6e737469747574696f6e322e706e67|]
+Oct 26 17:12:12 10.71.53.0 u98736630 open "/NEW/img/federal-donuts.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:12 10.71.53.0 u98736630 close "/NEW/img/federal-donuts.jpg" bytes read 0 written 159897
+Oct 26 17:12:12 10.71.53.0 u98736630 [10.71.53.0|put|0|159897|0|0|0|2f4e45572f696d672f6665646572616c2d646f6e7574732e6a7067|]
+Oct 26 17:12:12 10.71.53.0 u98736630 open "/NEW/img/federal_do.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:12 10.71.53.0 u98736630 close "/NEW/img/federal_do.jpg" bytes read 0 written 82252
+Oct 26 17:12:12 10.71.53.0 u98736630 [10.71.53.0|put|0|82252|0|0|0|2f4e45572f696d672f6665646572616c5f646f2e6a7067|]
+Oct 26 17:12:13 10.71.53.0 u98736630 open "/NEW/img/funnel.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:13 10.71.53.0 u98736630 close "/NEW/img/funnel.jpg" bytes read 0 written 1476276
+Oct 26 17:12:13 10.71.53.0 u98736630 [10.71.53.0|put|0|1476276|0|0|0|2f4e45572f696d672f66756e6e656c2e6a7067|]
+Oct 26 17:12:13 10.71.53.0 u98736630 open "/NEW/img/laptop2.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:16 10.71.53.0 u98736630 close "/NEW/img/laptop2.png" bytes read 0 written 6282880
+Oct 26 17:12:16 10.71.53.0 u98736630 [10.71.53.0|put|3|6282880|0|0|0|2f4e45572f696d672f6c6170746f70322e706e67|]
+Oct 26 17:12:16 10.71.53.0 u98736630 open "/NEW/img/lawn.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:17 10.71.53.0 u98736630 close "/NEW/img/lawn.jpg" bytes read 0 written 4155210
+Oct 26 17:12:17 10.71.53.0 u98736630 [10.71.53.0|put|1|4155210|0|0|0|2f4e45572f696d672f6c61776e2e6a7067|]
+Oct 26 17:12:18 10.71.53.0 u98736630 open "/NEW/img/Panorama.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:18 10.71.53.0 u98736630 close "/NEW/img/Panorama.jpg" bytes read 0 written 70912
+Oct 26 17:12:18 10.71.53.0 u98736630 [10.71.53.0|put|1|70912|0|0|0|2f4e45572f696d672f50616e6f72616d612e6a7067|]
+Oct 26 17:12:18 10.71.53.0 u98736630 open "/NEW/img/PMG_Logo.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:18 10.71.53.0 u98736630 close "/NEW/img/PMG_Logo.png" bytes read 0 written 44508
+Oct 26 17:12:18 10.71.53.0 u98736630 [10.71.53.0|put|0|44508|0|0|0|2f4e45572f696d672f504d475f4c6f676f2e706e67|]
+Oct 26 17:12:18 10.71.53.0 u98736630 open "/NEW/img/Proclamation.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:19 10.71.53.0 u98736630 close "/NEW/img/Proclamation.jpg" bytes read 0 written 1600589
+Oct 26 17:12:19 10.71.53.0 u98736630 [10.71.53.0|put|1|1600589|0|0|0|2f4e45572f696d672f50726f636c616d6174696f6e2e6a7067|]
+Oct 26 17:12:19 10.71.53.0 u98736630 open "/NEW/img/raxxvintage.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:19 10.71.53.0 u98736630 close "/NEW/img/raxxvintage.jpg" bytes read 0 written 126976
+Oct 26 17:12:19 10.71.53.0 u98736630 [10.71.53.0|put|0|126976|0|0|0|2f4e45572f696d672f7261787876696e746167652e6a7067|]
+Oct 26 17:12:20 10.71.53.0 u98736630 open "/NEW/img/reading.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:20 10.71.53.0 u98736630 close "/NEW/img/reading.jpg" bytes read 0 written 213286
+Oct 26 17:12:20 10.71.53.0 u98736630 [10.71.53.0|put|0|213286|0|0|0|2f4e45572f696d672f72656164696e672e6a7067|]
+Oct 26 17:12:20 10.71.53.0 u98736630 open "/NEW/img/readingterninal.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:20 10.71.53.0 u98736630 close "/NEW/img/readingterninal.jpg" bytes read 0 written 275595
+Oct 26 17:12:20 10.71.53.0 u98736630 [10.71.53.0|put|0|275595|0|0|0|2f4e45572f696d672f72656164696e677465726e696e616c2e6a7067|]
+Oct 26 17:12:21 10.71.53.0 u98736630 open "/NEW/img/talulas.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:21 10.71.53.0 u98736630 close "/NEW/img/talulas.jpg" bytes read 0 written 124633
+Oct 26 17:12:21 10.71.53.0 u98736630 [10.71.53.0|put|0|124633|0|0|0|2f4e45572f696d672f74616c756c61732e6a7067|]
+Oct 26 17:12:21 10.71.53.0 u98736630 open "/NEW/img/womensrights.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:22 10.71.53.0 u98736630 close "/NEW/img/womensrights.jpg" bytes read 0 written 1140663
+Oct 26 17:12:22 10.71.53.0 u98736630 [10.71.53.0|put|1|1140663|0|0|0|2f4e45572f696d672f776f6d656e737269676874732e6a7067|]
+Oct 26 17:12:22 10.71.53.0 u98736630 open "/NEW/img/zagar.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:22 10.71.53.0 u98736630 close "/NEW/img/zagar.jpg" bytes read 0 written 434352
+Oct 26 17:12:22 10.71.53.0 u98736630 [10.71.53.0|put|0|434352|0|0|0|2f4e45572f696d672f7a616761722e6a7067|]
+Oct 26 17:12:23 10.71.53.0 u98736630 open "/NEW/img/zagar2.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:23 10.71.53.0 u98736630 close "/NEW/img/zagar2.jpg" bytes read 0 written 508433
+Oct 26 17:12:23 10.71.53.0 u98736630 [10.71.53.0|put|0|508433|0|0|0|2f4e45572f696d672f7a61676172322e6a7067|]
+Oct 26 17:12:23 10.71.53.0 u98736630 open "/NEW/img/zahav.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:24 10.71.53.0 u98736630 close "/NEW/img/zahav.jpg" bytes read 0 written 2141888
+Oct 26 17:12:24 10.71.53.0 u98736630 [10.71.53.0|put|1|2141888|0|0|0|2f4e45572f696d672f7a616861762e6a7067|]
+Oct 26 17:12:25 10.71.53.0 u98736630 open "/NEW/constitution222.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:25 10.71.53.0 u98736630 close "/NEW/constitution222.html" bytes read 0 written 6565
+Oct 26 17:12:25 10.71.53.0 u98736630 [10.71.53.0|put|0|6565|0|0|0|2f4e45572f636f6e737469747574696f6e3232322e68746d6c|]
+Oct 26 17:12:25 10.71.53.0 u98736630 open "/NEW/explore_philly222.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:25 10.71.53.0 u98736630 close "/NEW/explore_philly222.html" bytes read 0 written 12423
+Oct 26 17:12:25 10.71.53.0 u98736630 [10.71.53.0|put|0|12423|0|0|0|2f4e45572f6578706c6f72655f7068696c6c793232322e68746d6c|]
+Oct 26 17:12:26 10.71.53.0 u98736630 open "/NEW/ticket_page222.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:26 10.71.53.0 u98736630 close "/NEW/ticket_page222.html" bytes read 0 written 3777
+Oct 26 17:12:26 10.71.53.0 u98736630 [10.71.53.0|put|0|3777|0|0|0|2f4e45572f7469636b65745f706167653232322e68746d6c|]
+Oct 26 17:12:26 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:12:26 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:12:26 10.71.53.0 u98736630 sent status No such file
+Oct 26 17:12:26 10.71.53.0 u98736630 mkdir name "/projects" mode 0777
+Oct 26 17:12:26 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f70726f6a65637473|]
+Oct 26 17:12:26 10.71.53.0 u98736630 mkdir name "/projects/cc" mode 0777
+Oct 26 17:12:26 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f70726f6a656374732f6363|]
+Oct 26 17:12:27 10.71.53.0 u98736630 mkdir name "/projects/cc/img" mode 0777
+Oct 26 17:12:27 10.71.53.0 u98736630 [10.71.53.0|mkdir|0|0|511|0|0|2f70726f6a656374732f63632f696d67|]
+Oct 26 17:12:27 10.71.53.0 u98736630 open "/projects/cc/img/51LAgoYYCVL._SX320_BO1,204,203,200_.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:27 10.71.53.0 u98736630 close "/projects/cc/img/51LAgoYYCVL._SX320_BO1,204,203,200_.jpg" bytes read 0 written 40737
+Oct 26 17:12:27 10.71.53.0 u98736630 [10.71.53.0|put|0|40737|0|0|0|2f70726f6a656374732f63632f696d672f35314c41676f595943564c2e5f53583332305f424f312c3230342c3230332c3230305f2e6a7067|]
+Oct 26 17:12:28 10.71.53.0 u98736630 open "/projects/cc/img/akon.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:28 10.71.53.0 u98736630 close "/projects/cc/img/akon.jpg" bytes read 0 written 186447
+Oct 26 17:12:28 10.71.53.0 u98736630 [10.71.53.0|put|0|186447|0|0|0|2f70726f6a656374732f63632f696d672f616b6f6e2e6a7067|]
+Oct 26 17:12:28 10.71.53.0 u98736630 open "/projects/cc/img/amada.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:28 10.71.53.0 u98736630 close "/projects/cc/img/amada.jpg" bytes read 0 written 63537
+Oct 26 17:12:28 10.71.53.0 u98736630 [10.71.53.0|put|0|63537|0|0|0|2f70726f6a656374732f63632f696d672f616d6164612e6a7067|]
+Oct 26 17:12:29 10.71.53.0 u98736630 open "/projects/cc/img/American Ninja.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:29 10.71.53.0 u98736630 close "/projects/cc/img/American Ninja.jpg" bytes read 0 written 36756
+Oct 26 17:12:29 10.71.53.0 u98736630 [10.71.53.0|put|0|36756|0|0|0|2f70726f6a656374732f63632f696d672f416d65726963616e204e696e6a612e6a7067|]
+Oct 26 17:12:29 10.71.53.0 u98736630 open "/projects/cc/img/arrow.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:29 10.71.53.0 u98736630 close "/projects/cc/img/arrow.jpg" bytes read 0 written 144885
+Oct 26 17:12:29 10.71.53.0 u98736630 [10.71.53.0|put|0|144885|0|0|0|2f70726f6a656374732f63632f696d672f6172726f772e6a7067|]
+Oct 26 17:12:29 10.71.53.0 u98736630 open "/projects/cc/img/asset1.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:32 10.71.53.0 u98736630 close "/projects/cc/img/asset1.png" bytes read 0 written 7018898
+Oct 26 17:12:32 10.71.53.0 u98736630 [10.71.53.0|put|3|7018898|0|0|0|2f70726f6a656374732f63632f696d672f6173736574312e706e67|]
+Oct 26 17:12:32 10.71.53.0 u98736630 open "/projects/cc/img/asset2.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:34 10.71.53.0 u98736630 close "/projects/cc/img/asset2.png" bytes read 0 written 6874170
+Oct 26 17:12:34 10.71.53.0 u98736630 [10.71.53.0|put|2|6874170|0|0|0|2f70726f6a656374732f63632f696d672f6173736574322e706e67|]
+Oct 26 17:12:35 10.71.53.0 u98736630 open "/projects/cc/img/asset3.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:37 10.71.53.0 u98736630 close "/projects/cc/img/asset3.png" bytes read 0 written 7224552
+Oct 26 17:12:37 10.71.53.0 u98736630 [10.71.53.0|put|2|7224552|0|0|0|2f70726f6a656374732f63632f696d672f6173736574332e706e67|]
+Oct 26 17:12:38 10.71.53.0 u98736630 open "/projects/cc/img/bar.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:38 10.71.53.0 u98736630 close "/projects/cc/img/bar.jpg" bytes read 0 written 190225
+Oct 26 17:12:38 10.71.53.0 u98736630 [10.71.53.0|put|0|190225|0|0|0|2f70726f6a656374732f63632f696d672f6261722e6a7067|]
+Oct 26 17:12:38 10.71.53.0 u98736630 open "/projects/cc/img/becoming michelle obama.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:38 10.71.53.0 u98736630 close "/projects/cc/img/becoming michelle obama.jpg" bytes read 0 written 39080
+Oct 26 17:12:38 10.71.53.0 u98736630 [10.71.53.0|put|0|39080|0|0|0|2f70726f6a656374732f63632f696d672f6265636f6d696e67206d696368656c6c65206f62616d612e6a7067|]
+Oct 26 17:12:39 10.71.53.0 u98736630 open "/projects/cc/img/blood diamond.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:39 10.71.53.0 u98736630 close "/projects/cc/img/blood diamond.jpg" bytes read 0 written 23249
+Oct 26 17:12:39 10.71.53.0 u98736630 [10.71.53.0|put|0|23249|0|0|0|2f70726f6a656374732f63632f696d672f626c6f6f64206469616d6f6e642e6a7067|]
+Oct 26 17:12:39 10.71.53.0 u98736630 open "/projects/cc/img/book.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:39 10.71.53.0 u98736630 close "/projects/cc/img/book.jpg" bytes read 0 written 24720
+Oct 26 17:12:39 10.71.53.0 u98736630 [10.71.53.0|put|0|24720|0|0|0|2f70726f6a656374732f63632f696d672f626f6f6b2e6a7067|]
+Oct 26 17:12:39 10.71.53.0 u98736630 open "/projects/cc/img/boyz.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:40 10.71.53.0 u98736630 close "/projects/cc/img/boyz.jpg" bytes read 0 written 156152
+Oct 26 17:12:40 10.71.53.0 u98736630 [10.71.53.0|put|1|156152|0|0|0|2f70726f6a656374732f63632f696d672f626f797a2e6a7067|]
+Oct 26 17:12:40 10.71.53.0 u98736630 open "/projects/cc/img/building.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:41 10.71.53.0 u98736630 close "/projects/cc/img/building.jpg" bytes read 0 written 1571232
+Oct 26 17:12:41 10.71.53.0 u98736630 [10.71.53.0|put|1|1571232|0|0|0|2f70726f6a656374732f63632f696d672f6275696c64696e672e6a7067|]
+Oct 26 17:12:41 10.71.53.0 u98736630 open "/projects/cc/img/chris brown.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:41 10.71.53.0 u98736630 close "/projects/cc/img/chris brown.jpg" bytes read 0 written 140056
+Oct 26 17:12:41 10.71.53.0 u98736630 [10.71.53.0|put|0|140056|0|0|0|2f70726f6a656374732f63632f696d672f63687269732062726f776e2e6a7067|]
+Oct 26 17:12:41 10.71.53.0 u98736630 open "/projects/cc/img/constitution2.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:44 10.71.53.0 u98736630 close "/projects/cc/img/constitution2.png" bytes read 0 written 7146882
+Oct 26 17:12:44 10.71.53.0 u98736630 [10.71.53.0|put|3|7146882|0|0|0|2f70726f6a656374732f63632f696d672f636f6e737469747574696f6e322e706e67|]
+Oct 26 17:12:44 10.71.53.0 u98736630 open "/projects/cc/img/davido.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:44 10.71.53.0 u98736630 close "/projects/cc/img/davido.jpg" bytes read 0 written 61591
+Oct 26 17:12:44 10.71.53.0 u98736630 [10.71.53.0|put|0|61591|0|0|0|2f70726f6a656374732f63632f696d672f64617669646f2e6a7067|]
+Oct 26 17:12:45 10.71.53.0 u98736630 open "/projects/cc/img/death.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:45 10.71.53.0 u98736630 close "/projects/cc/img/death.jpg" bytes read 0 written 843714
+Oct 26 17:12:45 10.71.53.0 u98736630 [10.71.53.0|put|0|843714|0|0|0|2f70726f6a656374732f63632f696d672f64656174682e6a7067|]
+Oct 26 17:12:45 10.71.53.0 u98736630 open "/projects/cc/img/drake.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:46 10.71.53.0 u98736630 close "/projects/cc/img/drake.jpg" bytes read 0 written 150582
+Oct 26 17:12:46 10.71.53.0 u98736630 [10.71.53.0|put|1|150582|0|0|0|2f70726f6a656374732f63632f696d672f6472616b652e6a7067|]
+Oct 26 17:12:46 10.71.53.0 u98736630 open "/projects/cc/img/float.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:46 10.71.53.0 u98736630 close "/projects/cc/img/float.jpg" bytes read 0 written 142080
+Oct 26 17:12:46 10.71.53.0 u98736630 [10.71.53.0|put|0|142080|0|0|0|2f70726f6a656374732f63632f696d672f666c6f61742e6a7067|]
+Oct 26 17:12:46 10.71.53.0 u98736630 open "/projects/cc/img/funnel.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:47 10.71.53.0 u98736630 close "/projects/cc/img/funnel.jpg" bytes read 0 written 1476276
+Oct 26 17:12:47 10.71.53.0 u98736630 [10.71.53.0|put|1|1476276|0|0|0|2f70726f6a656374732f63632f696d672f66756e6e656c2e6a7067|]
+Oct 26 17:12:47 10.71.53.0 u98736630 open "/projects/cc/img/gifted hands.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:48 10.71.53.0 u98736630 close "/projects/cc/img/gifted hands.jpg" bytes read 0 written 36432
+Oct 26 17:12:48 10.71.53.0 u98736630 [10.71.53.0|put|1|36432|0|0|0|2f70726f6a656374732f63632f696d672f6769667465642068616e64732e6a7067|]
+Oct 26 17:12:48 10.71.53.0 u98736630 open "/projects/cc/img/holy bible.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:48 10.71.53.0 u98736630 close "/projects/cc/img/holy bible.jpg" bytes read 0 written 6807
+Oct 26 17:12:48 10.71.53.0 u98736630 [10.71.53.0|put|0|6807|0|0|0|2f70726f6a656374732f63632f696d672f686f6c79206269626c652e6a7067|]
+Oct 26 17:12:48 10.71.53.0 u98736630 open "/projects/cc/img/HUSSIAN.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:48 10.71.53.0 u98736630 close "/projects/cc/img/HUSSIAN.png" bytes read 0 written 269909
+Oct 26 17:12:48 10.71.53.0 u98736630 [10.71.53.0|put|0|269909|0|0|0|2f70726f6a656374732f63632f696d672f4855535349414e2e706e67|]
+Oct 26 17:12:49 10.71.53.0 u98736630 open "/projects/cc/img/In love with the church girl.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:49 10.71.53.0 u98736630 close "/projects/cc/img/In love with the church girl.jpg" bytes read 0 written 68701
+Oct 26 17:12:49 10.71.53.0 u98736630 [10.71.53.0|put|0|68701|0|0|0|2f70726f6a656374732f63632f696d672f496e206c6f766520776974682074686520636875726368206769726c2e6a7067|]
+Oct 26 17:12:49 10.71.53.0 u98736630 open "/projects/cc/img/jayz.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:50 10.71.53.0 u98736630 close "/projects/cc/img/jayz.jpg" bytes read 0 written 223117
+Oct 26 17:12:50 10.71.53.0 u98736630 [10.71.53.0|put|1|223117|0|0|0|2f70726f6a656374732f63632f696d672f6a61797a2e6a7067|]
+Oct 26 17:12:50 10.71.53.0 u98736630 open "/projects/cc/img/laptop2.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:52 10.71.53.0 u98736630 close "/projects/cc/img/laptop2.png" bytes read 0 written 6282880
+Oct 26 17:12:52 10.71.53.0 u98736630 [10.71.53.0|put|2|6282880|0|0|0|2f70726f6a656374732f63632f696d672f6c6170746f70322e706e67|]
+Oct 26 17:12:52 10.71.53.0 u98736630 open "/projects/cc/img/laptop4.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:54 10.71.53.0 u98736630 close "/projects/cc/img/laptop4.png" bytes read 0 written 6282880
+Oct 26 17:12:54 10.71.53.0 u98736630 [10.71.53.0|put|2|6282880|0|0|0|2f70726f6a656374732f63632f696d672f6c6170746f70342e706e67|]
+Oct 26 17:12:54 10.71.53.0 u98736630 open "/projects/cc/img/law of sucess.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:55 10.71.53.0 u98736630 close "/projects/cc/img/law of sucess.jpg" bytes read 0 written 30541
+Oct 26 17:12:55 10.71.53.0 u98736630 [10.71.53.0|put|1|30541|0|0|0|2f70726f6a656374732f63632f696d672f6c6177206f66207375636573732e6a7067|]
+Oct 26 17:12:55 10.71.53.0 u98736630 open "/projects/cc/img/law of sucess.webp" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:55 10.71.53.0 u98736630 close "/projects/cc/img/law of sucess.webp" bytes read 0 written 6598
+Oct 26 17:12:55 10.71.53.0 u98736630 [10.71.53.0|put|0|6598|0|0|0|2f70726f6a656374732f63632f696d672f6c6177206f66207375636573732e77656270|]
+Oct 26 17:12:55 10.71.53.0 u98736630 open "/projects/cc/img/live your dream.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:55 10.71.53.0 u98736630 close "/projects/cc/img/live your dream.jpg" bytes read 0 written 24295
+Oct 26 17:12:55 10.71.53.0 u98736630 [10.71.53.0|put|0|24295|0|0|0|2f70726f6a656374732f63632f696d672f6c69766520796f757220647265616d2e6a7067|]
+Oct 26 17:12:56 10.71.53.0 u98736630 open "/projects/cc/img/love.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:56 10.71.53.0 u98736630 close "/projects/cc/img/love.jpg" bytes read 0 written 182969
+Oct 26 17:12:56 10.71.53.0 u98736630 [10.71.53.0|put|0|182969|0|0|0|2f70726f6a656374732f63632f696d672f6c6f76652e6a7067|]
+Oct 26 17:12:56 10.71.53.0 u98736630 open "/projects/cc/img/merlin.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:56 10.71.53.0 u98736630 close "/projects/cc/img/merlin.jpg" bytes read 0 written 41129
+Oct 26 17:12:56 10.71.53.0 u98736630 [10.71.53.0|put|0|41129|0|0|0|2f70726f6a656374732f63632f696d672f6d65726c696e2e6a7067|]
+Oct 26 17:12:56 10.71.53.0 u98736630 open "/projects/cc/img/movie.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:56 10.71.53.0 u98736630 close "/projects/cc/img/movie.jpg" bytes read 0 written 38705
+Oct 26 17:12:56 10.71.53.0 u98736630 [10.71.53.0|put|0|38705|0|0|0|2f70726f6a656374732f63632f696d672f6d6f7669652e6a7067|]
+Oct 26 17:12:57 10.71.53.0 u98736630 open "/projects/cc/img/mr p.jpeg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:57 10.71.53.0 u98736630 close "/projects/cc/img/mr p.jpeg" bytes read 0 written 24660
+Oct 26 17:12:57 10.71.53.0 u98736630 [10.71.53.0|put|0|24660|0|0|0|2f70726f6a656374732f63632f696d672f6d7220702e6a706567|]
+Oct 26 17:12:57 10.71.53.0 u98736630 open "/projects/cc/img/music.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:57 10.71.53.0 u98736630 close "/projects/cc/img/music.jpg" bytes read 0 written 45291
+Oct 26 17:12:57 10.71.53.0 u98736630 [10.71.53.0|put|0|45291|0|0|0|2f70726f6a656374732f63632f696d672f6d757369632e6a7067|]
+Oct 26 17:12:57 10.71.53.0 u98736630 open "/projects/cc/img/p.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:58 10.71.53.0 u98736630 close "/projects/cc/img/p.jpg" bytes read 0 written 57698
+Oct 26 17:12:58 10.71.53.0 u98736630 [10.71.53.0|put|1|57698|0|0|0|2f70726f6a656374732f63632f696d672f702e6a7067|]
+Oct 26 17:12:58 10.71.53.0 u98736630 open "/projects/cc/img/panorama.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:58 10.71.53.0 u98736630 close "/projects/cc/img/panorama.jpg" bytes read 0 written 54553
+Oct 26 17:12:58 10.71.53.0 u98736630 [10.71.53.0|put|0|54553|0|0|0|2f70726f6a656374732f63632f696d672f70616e6f72616d612e6a7067|]
+Oct 26 17:12:58 10.71.53.0 u98736630 open "/projects/cc/img/power.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:58 10.71.53.0 u98736630 close "/projects/cc/img/power.jpg" bytes read 0 written 134266
+Oct 26 17:12:58 10.71.53.0 u98736630 [10.71.53.0|put|0|134266|0|0|0|2f70726f6a656374732f63632f696d672f706f7765722e6a7067|]
+Oct 26 17:12:59 10.71.53.0 u98736630 open "/projects/cc/img/prision break.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:12:59 10.71.53.0 u98736630 close "/projects/cc/img/prision break.jpg" bytes read 0 written 34376
+Oct 26 17:12:59 10.71.53.0 u98736630 [10.71.53.0|put|0|34376|0|0|0|2f70726f6a656374732f63632f696d672f70726973696f6e20627265616b2e6a7067|]
+Oct 26 17:12:59 10.71.53.0 u98736630 open "/projects/cc/img/Proclamation.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:00 10.71.53.0 u98736630 close "/projects/cc/img/Proclamation.jpg" bytes read 0 written 1600589
+Oct 26 17:13:00 10.71.53.0 u98736630 [10.71.53.0|put|1|1600589|0|0|0|2f70726f6a656374732f63632f696d672f50726f636c616d6174696f6e2e6a7067|]
+Oct 26 17:13:00 10.71.53.0 u98736630 open "/projects/cc/img/Rambo.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:00 10.71.53.0 u98736630 close "/projects/cc/img/Rambo.jpg" bytes read 0 written 508106
+Oct 26 17:13:00 10.71.53.0 u98736630 [10.71.53.0|put|0|508106|0|0|0|2f70726f6a656374732f63632f696d672f52616d626f2e6a7067|]
+Oct 26 17:13:00 10.71.53.0 u98736630 open "/projects/cc/img/rkelly.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:01 10.71.53.0 u98736630 close "/projects/cc/img/rkelly.jpg" bytes read 0 written 148916
+Oct 26 17:13:01 10.71.53.0 u98736630 [10.71.53.0|put|1|148916|0|0|0|2f70726f6a656374732f63632f696d672f726b656c6c792e6a7067|]
+Oct 26 17:13:01 10.71.53.0 u98736630 open "/projects/cc/img/some time in April.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:02 10.71.53.0 u98736630 close "/projects/cc/img/some time in April.jpg" bytes read 0 written 4496155
+Oct 26 17:13:02 10.71.53.0 u98736630 [10.71.53.0|put|1|4496155|0|0|0|2f70726f6a656374732f63632f696d672f736f6d652074696d6520696e20417072696c2e6a7067|]
+Oct 26 17:13:03 10.71.53.0 u98736630 open "/projects/cc/img/spartacus.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:03 10.71.53.0 u98736630 close "/projects/cc/img/spartacus.jpg" bytes read 0 written 90377
+Oct 26 17:13:03 10.71.53.0 u98736630 [10.71.53.0|put|0|90377|0|0|0|2f70726f6a656374732f63632f696d672f7370617274616375732e6a7067|]
+Oct 26 17:13:03 10.71.53.0 u98736630 open "/projects/cc/img/street.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:03 10.71.53.0 u98736630 close "/projects/cc/img/street.jpg" bytes read 0 written 347159
+Oct 26 17:13:03 10.71.53.0 u98736630 [10.71.53.0|put|0|347159|0|0|0|2f70726f6a656374732f63632f696d672f7374726565742e6a7067|]
+Oct 26 17:13:04 10.71.53.0 u98736630 open "/projects/cc/img/superfly.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:04 10.71.53.0 u98736630 close "/projects/cc/img/superfly.jpg" bytes read 0 written 39915
+Oct 26 17:13:04 10.71.53.0 u98736630 [10.71.53.0|put|0|39915|0|0|0|2f70726f6a656374732f63632f696d672f7375706572666c792e6a7067|]
+Oct 26 17:13:04 10.71.53.0 u98736630 open "/projects/cc/img/the great controversy.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:04 10.71.53.0 u98736630 close "/projects/cc/img/the great controversy.jpg" bytes read 0 written 39617
+Oct 26 17:13:04 10.71.53.0 u98736630 [10.71.53.0|put|0|39617|0|0|0|2f70726f6a656374732f63632f696d672f74686520677265617420636f6e74726f76657273792e6a7067|]
+Oct 26 17:13:04 10.71.53.0 u98736630 open "/projects/cc/img/the rain and the night.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:05 10.71.53.0 u98736630 close "/projects/cc/img/the rain and the night.jpg" bytes read 0 written 190301
+Oct 26 17:13:05 10.71.53.0 u98736630 [10.71.53.0|put|1|190301|0|0|0|2f70726f6a656374732f63632f696d672f746865207261696e20616e6420746865206e696768742e6a7067|]
+Oct 26 17:13:05 10.71.53.0 u98736630 open "/projects/cc/img/think and grow rich.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:05 10.71.53.0 u98736630 close "/projects/cc/img/think and grow rich.png" bytes read 0 written 57967
+Oct 26 17:13:05 10.71.53.0 u98736630 [10.71.53.0|put|0|57967|0|0|0|2f70726f6a656374732f63632f696d672f7468696e6b20616e642067726f7720726963682e706e67|]
+Oct 26 17:13:05 10.71.53.0 u98736630 open "/projects/cc/img/think big.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:05 10.71.53.0 u98736630 close "/projects/cc/img/think big.jpg" bytes read 0 written 46244
+Oct 26 17:13:05 10.71.53.0 u98736630 [10.71.53.0|put|0|46244|0|0|0|2f70726f6a656374732f63632f696d672f7468696e6b206269672e6a7067|]
+Oct 26 17:13:06 10.71.53.0 u98736630 open "/projects/cc/img/usher.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:06 10.71.53.0 u98736630 close "/projects/cc/img/usher.jpg" bytes read 0 written 137834
+Oct 26 17:13:06 10.71.53.0 u98736630 [10.71.53.0|put|0|137834|0|0|0|2f70726f6a656374732f63632f696d672f75736865722e6a7067|]
+Oct 26 17:13:06 10.71.53.0 u98736630 open "/projects/cc/img/walk.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:06 10.71.53.0 u98736630 close "/projects/cc/img/walk.jpg" bytes read 0 written 270621
+Oct 26 17:13:06 10.71.53.0 u98736630 [10.71.53.0|put|0|270621|0|0|0|2f70726f6a656374732f63632f696d672f77616c6b2e6a7067|]
+Oct 26 17:13:07 10.71.53.0 u98736630 open "/projects/cc/img/westlife.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:07 10.71.53.0 u98736630 close "/projects/cc/img/westlife.jpg" bytes read 0 written 51926
+Oct 26 17:13:07 10.71.53.0 u98736630 [10.71.53.0|put|0|51926|0|0|0|2f70726f6a656374732f63632f696d672f776573746c6966652e6a7067|]
+Oct 26 17:13:07 10.71.53.0 u98736630 open "/projects/cc/img/womensrights.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:07 10.71.53.0 u98736630 close "/projects/cc/img/womensrights.jpg" bytes read 0 written 1140663
+Oct 26 17:13:07 10.71.53.0 u98736630 [10.71.53.0|put|0|1140663|0|0|0|2f70726f6a656374732f63632f696d672f776f6d656e737269676874732e6a7067|]
+Oct 26 17:13:08 10.71.53.0 u98736630 open "/projects/cc/12things.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:08 10.71.53.0 u98736630 close "/projects/cc/12things.html" bytes read 0 written 1002
+Oct 26 17:13:08 10.71.53.0 u98736630 [10.71.53.0|put|0|1002|0|0|0|2f70726f6a656374732f63632f31327468696e67732e68746d6c|]
+Oct 26 17:13:08 10.71.53.0 u98736630 open "/projects/cc/bands.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:08 10.71.53.0 u98736630 close "/projects/cc/bands.html" bytes read 0 written 2019
+Oct 26 17:13:08 10.71.53.0 u98736630 [10.71.53.0|put|0|2019|0|0|0|2f70726f6a656374732f63632f62616e64732e68746d6c|]
+Oct 26 17:13:09 10.71.53.0 u98736630 open "/projects/cc/books.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:09 10.71.53.0 u98736630 close "/projects/cc/books.html" bytes read 0 written 2040
+Oct 26 17:13:09 10.71.53.0 u98736630 [10.71.53.0|put|0|2040|0|0|0|2f70726f6a656374732f63632f626f6f6b732e68746d6c|]
+Oct 26 17:13:09 10.71.53.0 u98736630 open "/projects/cc/constitution.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:09 10.71.53.0 u98736630 close "/projects/cc/constitution.html" bytes read 0 written 3204
+Oct 26 17:13:09 10.71.53.0 u98736630 [10.71.53.0|put|0|3204|0|0|0|2f70726f6a656374732f63632f636f6e737469747574696f6e2e68746d6c|]
+Oct 26 17:13:09 10.71.53.0 u98736630 open "/projects/cc/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:10 10.71.53.0 u98736630 close "/projects/cc/index.html" bytes read 0 written 1797
+Oct 26 17:13:10 10.71.53.0 u98736630 [10.71.53.0|put|1|1797|0|0|0|2f70726f6a656374732f63632f696e6465782e68746d6c|]
+Oct 26 17:13:10 10.71.53.0 u98736630 open "/projects/cc/Inside philly.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:10 10.71.53.0 u98736630 close "/projects/cc/Inside philly.html" bytes read 0 written 3106
+Oct 26 17:13:10 10.71.53.0 u98736630 [10.71.53.0|put|0|3106|0|0|0|2f70726f6a656374732f63632f496e73696465207068696c6c792e68746d6c|]
+Oct 26 17:13:10 10.71.53.0 u98736630 open "/projects/cc/movies.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:10 10.71.53.0 u98736630 close "/projects/cc/movies.html" bytes read 0 written 2118
+Oct 26 17:13:10 10.71.53.0 u98736630 [10.71.53.0|put|0|2118|0|0|0|2f70726f6a656374732f63632f6d6f766965732e68746d6c|]
+Oct 26 17:13:10 10.71.53.0 u98736630 open "/projects/cc/profile.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:10 10.71.53.0 u98736630 close "/projects/cc/profile.html" bytes read 0 written 3588
+Oct 26 17:13:10 10.71.53.0 u98736630 [10.71.53.0|put|0|3588|0|0|0|2f70726f6a656374732f63632f70726f66696c652e68746d6c|]
+Oct 26 17:13:11 10.71.53.0 u98736630 open "/projects/cc/ticket page.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:11 10.71.53.0 u98736630 close "/projects/cc/ticket page.html" bytes read 0 written 267
+Oct 26 17:13:11 10.71.53.0 u98736630 [10.71.53.0|put|0|267|0|0|0|2f70726f6a656374732f63632f7469636b657420706167652e68746d6c|]
+Oct 26 17:13:11 10.71.53.0 u98736630 open "/projects/1paiveyResume.pdf" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:12 10.71.53.0 u98736630 close "/projects/1paiveyResume.pdf" bytes read 0 written 225994
+Oct 26 17:13:12 10.71.53.0 u98736630 [10.71.53.0|put|1|225994|0|0|0|2f70726f6a656374732f31706169766579526573756d652e706466|]
+Oct 26 17:13:12 10.71.53.0 u98736630 open "/projects/2672065072.zip" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:12 10.71.53.0 u98736630 close "/projects/2672065072.zip" bytes read 0 written 220532
+Oct 26 17:13:12 10.71.53.0 u98736630 [10.71.53.0|put|0|220532|0|0|0|2f70726f6a656374732f323637323036353037322e7a6970|]
+Oct 26 17:13:12 10.71.53.0 u98736630 open "/projects/paiveyCResume.pdf" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:13 10.71.53.0 u98736630 close "/projects/paiveyCResume.pdf" bytes read 0 written 195915
+Oct 26 17:13:13 10.71.53.0 u98736630 [10.71.53.0|put|1|195915|0|0|0|2f70726f6a656374732f70616976657943526573756d652e706466|]
+Oct 26 17:13:13 10.71.53.0 u98736630 open "/12things.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:13 10.71.53.0 u98736630 close "/12things.html" bytes read 0 written 1002
+Oct 26 17:13:13 10.71.53.0 u98736630 [10.71.53.0|put|0|1002|0|0|0|2f31327468696e67732e68746d6c|]
+Oct 26 17:13:13 10.71.53.0 u98736630 open "/bands.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:14 10.71.53.0 u98736630 close "/bands.html" bytes read 0 written 2104
+Oct 26 17:13:14 10.71.53.0 u98736630 [10.71.53.0|put|1|2104|0|0|0|2f62616e64732e68746d6c|]
+Oct 26 17:13:14 10.71.53.0 u98736630 open "/books.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:14 10.71.53.0 u98736630 close "/books.html" bytes read 0 written 2935
+Oct 26 17:13:14 10.71.53.0 u98736630 [10.71.53.0|put|0|2935|0|0|0|2f626f6f6b732e68746d6c|]
+Oct 26 17:13:14 10.71.53.0 u98736630 open "/Bootcamp.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:14 10.71.53.0 u98736630 close "/Bootcamp.html" bytes read 0 written 2310
+Oct 26 17:13:14 10.71.53.0 u98736630 [10.71.53.0|put|0|2310|0|0|0|2f426f6f7463616d702e68746d6c|]
+Oct 26 17:13:14 10.71.53.0 u98736630 open "/constitution.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:15 10.71.53.0 u98736630 close "/constitution.html" bytes read 0 written 2846
+Oct 26 17:13:15 10.71.53.0 u98736630 [10.71.53.0|put|1|2846|0|0|0|2f636f6e737469747574696f6e2e68746d6c|]
+Oct 26 17:13:15 10.71.53.0 u98736630 open "/Experience.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:15 10.71.53.0 u98736630 close "/Experience.html" bytes read 0 written 2171
+Oct 26 17:13:15 10.71.53.0 u98736630 [10.71.53.0|put|0|2171|0|0|0|2f457870657269656e63652e68746d6c|]
+Oct 26 17:13:15 10.71.53.0 u98736630 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:15 10.71.53.0 u98736630 close "/index.html" bytes read 0 written 4298
+Oct 26 17:13:15 10.71.53.0 u98736630 [10.71.53.0|put|0|4298|0|0|0|2f696e6465782e68746d6c|]
+Oct 26 17:13:15 10.71.53.0 u98736630 open "/Insidephilly.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:16 10.71.53.0 u98736630 close "/Insidephilly.html" bytes read 0 written 1998
+Oct 26 17:13:16 10.71.53.0 u98736630 [10.71.53.0|put|1|1998|0|0|0|2f496e736964657068696c6c792e68746d6c|]
+Oct 26 17:13:16 10.71.53.0 u98736630 open "/learned.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:16 10.71.53.0 u98736630 close "/learned.html" bytes read 0 written 141
+Oct 26 17:13:16 10.71.53.0 u98736630 [10.71.53.0|put|0|141|0|0|0|2f6c6561726e65642e68746d6c|]
+Oct 26 17:13:16 10.71.53.0 u98736630 open "/movies.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:16 10.71.53.0 u98736630 close "/movies.html" bytes read 0 written 4029
+Oct 26 17:13:16 10.71.53.0 u98736630 [10.71.53.0|put|0|4029|0|0|0|2f6d6f766965732e68746d6c|]
+Oct 26 17:13:16 10.71.53.0 u98736630 open "/profile.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:16 10.71.53.0 u98736630 close "/profile.html" bytes read 0 written 4160
+Oct 26 17:13:16 10.71.53.0 u98736630 [10.71.53.0|put|0|4160|0|0|0|2f70726f66696c652e68746d6c|]
+Oct 26 17:13:17 10.71.53.0 u98736630 open "/tickets.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:17 10.71.53.0 u98736630 close "/tickets.html" bytes read 0 written 497
+Oct 26 17:13:17 10.71.53.0 u98736630 [10.71.53.0|put|0|497|0|0|0|2f7469636b6574732e68746d6c|]
+Oct 26 17:13:17 10.71.53.0 u98736630 open "/Week1.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:17 10.71.53.0 u98736630 close "/Week1.html" bytes read 0 written 2171
+Oct 26 17:13:17 10.71.53.0 u98736630 [10.71.53.0|put|0|2171|0|0|0|2f5765656b312e68746d6c|]
+Oct 26 17:13:17 10.71.53.0 u98736630 open "/Week2.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:17 10.71.53.0 u98736630 close "/Week2.html" bytes read 0 written 1614
+Oct 26 17:13:17 10.71.53.0 u98736630 [10.71.53.0|put|0|1614|0|0|0|2f5765656b322e68746d6c|]
+Oct 26 17:13:18 10.71.53.0 u98736630 open "/Week3.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:18 10.71.53.0 u98736630 close "/Week3.html" bytes read 0 written 2066
+Oct 26 17:13:18 10.71.53.0 u98736630 [10.71.53.0|put|0|2066|0|0|0|2f5765656b332e68746d6c|]
+Oct 26 17:13:18 10.71.53.0 u98736630 open "/Week4.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Oct 26 17:13:18 10.71.53.0 u98736630 close "/Week4.html" bytes read 0 written 1370
+Oct 26 17:13:18 10.71.53.0 u98736630 [10.71.53.0|put|0|1370|0|0|0|2f5765656b342e68746d6c|]
+Oct 26 17:13:23 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/akon.jpg" flags READ mode 0666
+Oct 26 17:13:23 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/akon.jpg" bytes read 186447 written 0
+Oct 26 17:13:23 10.71.53.0 u98736630 [10.71.53.0|get|0|186447|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f616b6f6e2e6a7067|]
+Oct 26 17:13:24 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/amada.jpg" flags READ mode 0666
+Oct 26 17:13:24 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/amada.jpg" bytes read 72155 written 0
+Oct 26 17:13:24 10.71.53.0 u98736630 [10.71.53.0|get|0|72155|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f616d6164612e6a7067|]
+Oct 26 17:13:24 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/American Ninja.jpg" flags READ mode 0666
+Oct 26 17:13:25 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/American Ninja.jpg" bytes read 36756 written 0
+Oct 26 17:13:25 10.71.53.0 u98736630 [10.71.53.0|get|1|36756|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f416d65726963616e204e696e6a612e6a7067|]
+Oct 26 17:13:25 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/arrow.jpg" flags READ mode 0666
+Oct 26 17:13:25 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/arrow.jpg" bytes read 144885 written 0
+Oct 26 17:13:25 10.71.53.0 u98736630 [10.71.53.0|get|0|144885|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6172726f772e6a7067|]
+Oct 26 17:13:26 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/asset2.png" flags READ mode 0666
+Oct 26 17:13:32 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/asset2.png" bytes read 6874170 written 0
+Oct 26 17:13:32 10.71.53.0 u98736630 [10.71.53.0|get|6|6874170|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6173736574322e706e67|]
+Oct 26 17:13:32 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/asset3.png" flags READ mode 0666
+Oct 26 17:13:40 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/asset3.png" bytes read 7224552 written 0
+Oct 26 17:13:40 10.71.53.0 u98736630 [10.71.53.0|get|8|7224552|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6173736574332e706e67|]
+Oct 26 17:13:40 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/becoming michelle obama.jpg" flags READ mode 0666
+Oct 26 17:13:41 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/becoming michelle obama.jpg" bytes read 39080 written 0
+Oct 26 17:13:41 10.71.53.0 u98736630 [10.71.53.0|get|1|39080|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6265636f6d696e67206d696368656c6c65206f62616d612e6a7067|]
+Oct 26 17:13:41 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/blood diamond.jpg" flags READ mode 0666
+Oct 26 17:13:42 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/blood diamond.jpg" bytes read 23249 written 0
+Oct 26 17:13:42 10.71.53.0 u98736630 [10.71.53.0|get|1|23249|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f626c6f6f64206469616d6f6e642e6a7067|]
+Oct 26 17:13:42 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/book.jpg" flags READ mode 0666
+Oct 26 17:13:42 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/book.jpg" bytes read 24720 written 0
+Oct 26 17:13:42 10.71.53.0 u98736630 [10.71.53.0|get|0|24720|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f626f6f6b2e6a7067|]
+Oct 26 17:13:43 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/boyz.jpg" flags READ mode 0666
+Oct 26 17:13:43 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/boyz.jpg" bytes read 156152 written 0
+Oct 26 17:13:43 10.71.53.0 u98736630 [10.71.53.0|get|0|156152|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f626f797a2e6a7067|]
+Oct 26 17:13:43 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/cheerystpierre.jpg" flags READ mode 0666
+Oct 26 17:13:44 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/cheerystpierre.jpg" bytes read 293785 written 0
+Oct 26 17:13:44 10.71.53.0 u98736630 [10.71.53.0|get|1|293785|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f63686565727973747069657272652e6a7067|]
+Oct 26 17:13:44 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/cherry-street1.jpg" flags READ mode 0666
+Oct 26 17:13:45 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/cherry-street1.jpg" bytes read 345341 written 0
+Oct 26 17:13:45 10.71.53.0 u98736630 [10.71.53.0|get|1|345341|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6368657272792d737472656574312e6a7067|]
+Oct 26 17:13:46 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/chris brown.jpg" flags READ mode 0666
+Oct 26 17:13:46 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/chris brown.jpg" bytes read 140056 written 0
+Oct 26 17:13:46 10.71.53.0 u98736630 [10.71.53.0|get|0|140056|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f63687269732062726f776e2e6a7067|]
+Oct 26 17:13:46 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/constitution2.png" flags READ mode 0666
+Oct 26 17:13:58 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/constitution2.png" bytes read 7146882 written 0
+Oct 26 17:13:58 10.71.53.0 u98736630 [10.71.53.0|get|12|7146882|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f636f6e737469747574696f6e322e706e67|]
+Oct 26 17:13:59 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/davido.jpg" flags READ mode 0666
+Oct 26 17:13:59 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/davido.jpg" bytes read 61591 written 0
+Oct 26 17:13:59 10.71.53.0 u98736630 [10.71.53.0|get|0|61591|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f64617669646f2e6a7067|]
+Oct 26 17:13:59 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/death.jpg" flags READ mode 0666
+Oct 26 17:14:01 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/death.jpg" bytes read 843714 written 0
+Oct 26 17:14:01 10.71.53.0 u98736630 [10.71.53.0|get|2|843714|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f64656174682e6a7067|]
+Oct 26 17:14:01 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/donout.jpg" flags READ mode 0666
+Oct 26 17:14:02 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/donout.jpg" bytes read 159897 written 0
+Oct 26 17:14:02 10.71.53.0 u98736630 [10.71.53.0|get|1|159897|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f646f6e6f75742e6a7067|]
+Oct 26 17:14:02 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/drake.jpg" flags READ mode 0666
+Oct 26 17:14:03 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/drake.jpg" bytes read 150582 written 0
+Oct 26 17:14:03 10.71.53.0 u98736630 [10.71.53.0|get|1|150582|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6472616b652e6a7067|]
+Oct 26 17:14:04 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/federal-donuts.jpg" flags READ mode 0666
+Oct 26 17:14:04 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/federal-donuts.jpg" bytes read 159897 written 0
+Oct 26 17:14:04 10.71.53.0 u98736630 [10.71.53.0|get|0|159897|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6665646572616c2d646f6e7574732e6a7067|]
+Oct 26 17:14:04 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/federal_do.jpg" flags READ mode 0666
+Oct 26 17:14:05 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/federal_do.jpg" bytes read 82252 written 0
+Oct 26 17:14:05 10.71.53.0 u98736630 [10.71.53.0|get|1|82252|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6665646572616c5f646f2e6a7067|]
+Oct 26 17:14:05 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/float.jpg" flags READ mode 0666
+Oct 26 17:14:06 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/float.jpg" bytes read 142080 written 0
+Oct 26 17:14:06 10.71.53.0 u98736630 [10.71.53.0|get|1|142080|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f666c6f61742e6a7067|]
+Oct 26 17:14:06 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/funnel.jpg" flags READ mode 0666
+Oct 26 17:14:08 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/funnel.jpg" bytes read 1476276 written 0
+Oct 26 17:14:08 10.71.53.0 u98736630 [10.71.53.0|get|2|1476276|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f66756e6e656c2e6a7067|]
+Oct 26 17:14:08 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/gifted hands.jpg" flags READ mode 0666
+Oct 26 17:14:08 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/gifted hands.jpg" bytes read 36432 written 0
+Oct 26 17:14:08 10.71.53.0 u98736630 [10.71.53.0|get|0|36432|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6769667465642068616e64732e6a7067|]
+Oct 26 17:14:09 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/guwor.JPG" flags READ mode 0666
+Oct 26 17:14:10 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/guwor.JPG" bytes read 634449 written 0
+Oct 26 17:14:10 10.71.53.0 u98736630 [10.71.53.0|get|1|634449|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6775776f722e4a5047|]
+Oct 26 17:14:10 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/holy bible.jpg" flags READ mode 0666
+Oct 26 17:14:10 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/holy bible.jpg" bytes read 6807 written 0
+Oct 26 17:14:10 10.71.53.0 u98736630 [10.71.53.0|get|0|6807|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f686f6c79206269626c652e6a7067|]
+Oct 26 17:14:11 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/HUSSIAN.png" flags READ mode 0666
+Oct 26 17:14:11 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/HUSSIAN.png" bytes read 269909 written 0
+Oct 26 17:14:11 10.71.53.0 u98736630 [10.71.53.0|get|0|269909|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f4855535349414e2e706e67|]
+Oct 26 17:14:12 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/In love with the church girl.jpg" flags READ mode 0666
+Oct 26 17:14:12 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/In love with the church girl.jpg" bytes read 68701 written 0
+Oct 26 17:14:12 10.71.53.0 u98736630 [10.71.53.0|get|0|68701|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f496e206c6f766520776974682074686520636875726368206769726c2e6a7067|]
+Oct 26 17:14:12 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/jayz.jpg" flags READ mode 0666
+Oct 26 17:14:13 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/jayz.jpg" bytes read 223117 written 0
+Oct 26 17:14:13 10.71.53.0 u98736630 [10.71.53.0|get|1|223117|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6a61797a2e6a7067|]
+Oct 26 17:14:13 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/laptop2.png" flags READ mode 0666
+Oct 26 17:14:20 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/laptop2.png" bytes read 6282880 written 0
+Oct 26 17:14:20 10.71.53.0 u98736630 [10.71.53.0|get|7|6282880|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6c6170746f70322e706e67|]
+Oct 26 17:14:20 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/law of sucess.jpg" flags READ mode 0666
+Oct 26 17:14:20 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/law of sucess.jpg" bytes read 30541 written 0
+Oct 26 17:14:20 10.71.53.0 u98736630 [10.71.53.0|get|0|30541|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6c6177206f66207375636573732e6a7067|]
+Oct 26 17:14:21 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/law of sucess.webp" flags READ mode 0666
+Oct 26 17:14:21 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/law of sucess.webp" bytes read 6598 written 0
+Oct 26 17:14:21 10.71.53.0 u98736630 [10.71.53.0|get|0|6598|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6c6177206f66207375636573732e77656270|]
+Oct 26 17:14:21 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/lawn.jpg" flags READ mode 0666
+Oct 26 17:14:27 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/lawn.jpg" bytes read 4155210 written 0
+Oct 26 17:14:27 10.71.53.0 u98736630 [10.71.53.0|get|6|4155210|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6c61776e2e6a7067|]
+Oct 26 17:14:27 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/live your dream.jpg" flags READ mode 0666
+Oct 26 17:14:29 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/live your dream.jpg" bytes read 24295 written 0
+Oct 26 17:14:29 10.71.53.0 u98736630 [10.71.53.0|get|2|24295|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6c69766520796f757220647265616d2e6a7067|]
+Oct 26 17:14:30 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/love.jpg" flags READ mode 0666
+Oct 26 17:14:30 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/love.jpg" bytes read 182969 written 0
+Oct 26 17:14:30 10.71.53.0 u98736630 [10.71.53.0|get|0|182969|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6c6f76652e6a7067|]
+Oct 26 17:14:31 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/merlin.jpg" flags READ mode 0666
+Oct 26 17:14:31 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/merlin.jpg" bytes read 41129 written 0
+Oct 26 17:14:31 10.71.53.0 u98736630 [10.71.53.0|get|0|41129|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6d65726c696e2e6a7067|]
+Oct 26 17:14:31 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/movie.jpg" flags READ mode 0666
+Oct 26 17:14:32 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/movie.jpg" bytes read 38705 written 0
+Oct 26 17:14:32 10.71.53.0 u98736630 [10.71.53.0|get|1|38705|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6d6f7669652e6a7067|]
+Oct 26 17:14:32 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/mr p.jpeg" flags READ mode 0666
+Oct 26 17:14:32 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/mr p.jpeg" bytes read 24660 written 0
+Oct 26 17:14:32 10.71.53.0 u98736630 [10.71.53.0|get|0|24660|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6d7220702e6a706567|]
+Oct 26 17:14:33 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/music.jpg" flags READ mode 0666
+Oct 26 17:14:33 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/music.jpg" bytes read 45291 written 0
+Oct 26 17:14:33 10.71.53.0 u98736630 [10.71.53.0|get|0|45291|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f6d757369632e6a7067|]
+Oct 26 17:14:34 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/p.jpg" flags READ mode 0666
+Oct 26 17:14:34 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/p.jpg" bytes read 57698 written 0
+Oct 26 17:14:34 10.71.53.0 u98736630 [10.71.53.0|get|0|57698|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f702e6a7067|]
+Oct 26 17:14:34 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/panorama.jpg" flags READ mode 0666
+Oct 26 17:14:35 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/panorama.jpg" bytes read 70912 written 0
+Oct 26 17:14:35 10.71.53.0 u98736630 [10.71.53.0|get|1|70912|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f70616e6f72616d612e6a7067|]
+Oct 26 17:14:35 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/PMG_Logo.png" flags READ mode 0666
+Oct 26 17:14:35 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/PMG_Logo.png" bytes read 44508 written 0
+Oct 26 17:14:35 10.71.53.0 u98736630 [10.71.53.0|get|0|44508|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f504d475f4c6f676f2e706e67|]
+Oct 26 17:14:36 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/power.jpg" flags READ mode 0666
+Oct 26 17:14:36 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/power.jpg" bytes read 134266 written 0
+Oct 26 17:14:36 10.71.53.0 u98736630 [10.71.53.0|get|0|134266|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f706f7765722e6a7067|]
+Oct 26 17:14:37 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/prision break.jpg" flags READ mode 0666
+Oct 26 17:14:37 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/prision break.jpg" bytes read 34376 written 0
+Oct 26 17:14:37 10.71.53.0 u98736630 [10.71.53.0|get|0|34376|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f70726973696f6e20627265616b2e6a7067|]
+Oct 26 17:14:37 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/Proclamation.jpg" flags READ mode 0666
+Oct 26 17:14:39 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/Proclamation.jpg" bytes read 1600589 written 0
+Oct 26 17:14:39 10.71.53.0 u98736630 [10.71.53.0|get|2|1600589|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f50726f636c616d6174696f6e2e6a7067|]
+Oct 26 17:14:40 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/Rambo.jpg" flags READ mode 0666
+Oct 26 17:14:40 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/Rambo.jpg" bytes read 508106 written 0
+Oct 26 17:14:40 10.71.53.0 u98736630 [10.71.53.0|get|0|508106|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f52616d626f2e6a7067|]
+Oct 26 17:14:41 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/raxxvintage.jpg" flags READ mode 0666
+Oct 26 17:14:41 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/raxxvintage.jpg" bytes read 126976 written 0
+Oct 26 17:14:41 10.71.53.0 u98736630 [10.71.53.0|get|0|126976|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f7261787876696e746167652e6a7067|]
+Oct 26 17:14:41 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/reading.jpg" flags READ mode 0666
+Oct 26 17:14:42 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/reading.jpg" bytes read 213286 written 0
+Oct 26 17:14:42 10.71.53.0 u98736630 [10.71.53.0|get|1|213286|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f72656164696e672e6a7067|]
+Oct 26 17:14:42 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/readingterninal.jpg" flags READ mode 0666
+Oct 26 17:14:43 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/readingterninal.jpg" bytes read 275595 written 0
+Oct 26 17:14:43 10.71.53.0 u98736630 [10.71.53.0|get|1|275595|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f72656164696e677465726e696e616c2e6a7067|]
+Oct 26 17:14:43 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/rkelly.jpg" flags READ mode 0666
+Oct 26 17:14:44 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/rkelly.jpg" bytes read 148916 written 0
+Oct 26 17:14:44 10.71.53.0 u98736630 [10.71.53.0|get|1|148916|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f726b656c6c792e6a7067|]
+Oct 26 17:14:44 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/some time in April.jpg" flags READ mode 0666
+Oct 26 17:14:51 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/some time in April.jpg" bytes read 4496155 written 0
+Oct 26 17:14:51 10.71.53.0 u98736630 [10.71.53.0|get|7|4496155|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f736f6d652074696d6520696e20417072696c2e6a7067|]
+Oct 26 17:14:52 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/sort.jpg" flags READ mode 0666
+Oct 26 17:14:52 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/sort.jpg" bytes read 37509 written 0
+Oct 26 17:14:52 10.71.53.0 u98736630 [10.71.53.0|get|0|37509|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f736f72742e6a7067|]
+Oct 26 17:14:53 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/southstreet.jpg" flags READ mode 0666
+Oct 26 17:14:53 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/southstreet.jpg" bytes read 255284 written 0
+Oct 26 17:14:53 10.71.53.0 u98736630 [10.71.53.0|get|0|255284|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f736f7574687374726565742e6a7067|]
+Oct 26 17:14:53 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/spartacus.jpg" flags READ mode 0666
+Oct 26 17:14:54 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/spartacus.jpg" bytes read 90377 written 0
+Oct 26 17:14:54 10.71.53.0 u98736630 [10.71.53.0|get|1|90377|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f7370617274616375732e6a7067|]
+Oct 26 17:14:54 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/street.jpg" flags READ mode 0666
+Oct 26 17:14:55 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/street.jpg" bytes read 347159 written 0
+Oct 26 17:14:55 10.71.53.0 u98736630 [10.71.53.0|get|1|347159|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f7374726565742e6a7067|]
+Oct 26 17:14:55 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/superfly.jpg" flags READ mode 0666
+Oct 26 17:14:55 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/superfly.jpg" bytes read 39915 written 0
+Oct 26 17:14:55 10.71.53.0 u98736630 [10.71.53.0|get|0|39915|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f7375706572666c792e6a7067|]
+Oct 26 17:14:56 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/talulas.jpg" flags READ mode 0666
+Oct 26 17:14:56 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/talulas.jpg" bytes read 124633 written 0
+Oct 26 17:14:56 10.71.53.0 u98736630 [10.71.53.0|get|0|124633|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f74616c756c61732e6a7067|]
+Oct 26 17:14:57 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/terminal.jpg" flags READ mode 0666
+Oct 26 17:14:57 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/terminal.jpg" bytes read 416311 written 0
+Oct 26 17:14:57 10.71.53.0 u98736630 [10.71.53.0|get|0|416311|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f7465726d696e616c2e6a7067|]
+Oct 26 17:14:58 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/the great controversy.jpg" flags READ mode 0666
+Oct 26 17:14:58 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/the great controversy.jpg" bytes read 39617 written 0
+Oct 26 17:14:58 10.71.53.0 u98736630 [10.71.53.0|get|0|39617|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f74686520677265617420636f6e74726f76657273792e6a7067|]
+Oct 26 17:14:58 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/the rain and the night.jpg" flags READ mode 0666
+Oct 26 17:14:59 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/the rain and the night.jpg" bytes read 190301 written 0
+Oct 26 17:14:59 10.71.53.0 u98736630 [10.71.53.0|get|1|190301|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f746865207261696e20616e6420746865206e696768742e6a7067|]
+Oct 26 17:14:59 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/think and grow rich.png" flags READ mode 0666
+Oct 26 17:15:00 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/think and grow rich.png" bytes read 57967 written 0
+Oct 26 17:15:00 10.71.53.0 u98736630 [10.71.53.0|get|1|57967|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f7468696e6b20616e642067726f7720726963682e706e67|]
+Oct 26 17:15:00 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/think big.jpg" flags READ mode 0666
+Oct 26 17:15:00 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/think big.jpg" bytes read 46244 written 0
+Oct 26 17:15:00 10.71.53.0 u98736630 [10.71.53.0|get|0|46244|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f7468696e6b206269672e6a7067|]
+Oct 26 17:15:01 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/usher.jpg" flags READ mode 0666
+Oct 26 17:15:01 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/usher.jpg" bytes read 137834 written 0
+Oct 26 17:15:01 10.71.53.0 u98736630 [10.71.53.0|get|0|137834|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f75736865722e6a7067|]
+Oct 26 17:15:02 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/walk.jpg" flags READ mode 0666
+Oct 26 17:15:02 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/walk.jpg" bytes read 270621 written 0
+Oct 26 17:15:02 10.71.53.0 u98736630 [10.71.53.0|get|0|270621|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f77616c6b2e6a7067|]
+Oct 26 17:15:03 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/westlife.jpg" flags READ mode 0666
+Oct 26 17:15:03 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/westlife.jpg" bytes read 51926 written 0
+Oct 26 17:15:03 10.71.53.0 u98736630 [10.71.53.0|get|0|51926|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f776573746c6966652e6a7067|]
+Oct 26 17:15:03 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/womensrights.jpg" flags READ mode 0666
+Oct 26 17:15:05 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/womensrights.jpg" bytes read 1140663 written 0
+Oct 26 17:15:05 10.71.53.0 u98736630 [10.71.53.0|get|2|1140663|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f776f6d656e737269676874732e6a7067|]
+Oct 26 17:15:06 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/zagar.jpg" flags READ mode 0666
+Oct 26 17:15:06 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/zagar.jpg" bytes read 434352 written 0
+Oct 26 17:15:06 10.71.53.0 u98736630 [10.71.53.0|get|0|434352|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f7a616761722e6a7067|]
+Oct 26 17:15:07 10.71.53.0 u98736630 open "/_archive/downloads/untitled/img/zagar2.jpg" flags READ mode 0666
+Oct 26 17:15:08 10.71.53.0 u98736630 close "/_archive/downloads/untitled/img/zagar2.jpg" bytes read 508433 written 0
+Oct 26 17:15:08 10.71.53.0 u98736630 [10.71.53.0|get|1|508433|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696d672f7a61676172322e6a7067|]
+Oct 26 17:15:09 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/51LAgoYYCVL._SX320_BO1,204,203,200_.jpg" flags READ mode 0666
+Oct 26 17:15:09 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/51LAgoYYCVL._SX320_BO1,204,203,200_.jpg" bytes read 40737 written 0
+Oct 26 17:15:09 10.71.53.0 u98736630 [10.71.53.0|get|0|40737|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f35314c41676f595943564c2e5f53583332305f424f312c3230342c3230332c3230305f2e6a7067|]
+Oct 26 17:15:10 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/akon.jpg" flags READ mode 0666
+Oct 26 17:15:10 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/akon.jpg" bytes read 186447 written 0
+Oct 26 17:15:10 10.71.53.0 u98736630 [10.71.53.0|get|0|186447|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f616b6f6e2e6a7067|]
+Oct 26 17:15:11 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/amada.jpg" flags READ mode 0666
+Oct 26 17:15:11 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/amada.jpg" bytes read 63537 written 0
+Oct 26 17:15:11 10.71.53.0 u98736630 [10.71.53.0|get|0|63537|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f616d6164612e6a7067|]
+Oct 26 17:15:11 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/American Ninja.jpg" flags READ mode 0666
+Oct 26 17:15:12 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/American Ninja.jpg" bytes read 36756 written 0
+Oct 26 17:15:12 10.71.53.0 u98736630 [10.71.53.0|get|1|36756|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f416d65726963616e204e696e6a612e6a7067|]
+Oct 26 17:15:12 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/arrow.jpg" flags READ mode 0666
+Oct 26 17:15:13 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/arrow.jpg" bytes read 144885 written 0
+Oct 26 17:15:13 10.71.53.0 u98736630 [10.71.53.0|get|1|144885|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6172726f772e6a7067|]
+Oct 26 17:15:13 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/asset1.png" flags READ mode 0666
+Oct 26 17:15:21 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/asset1.png" bytes read 7018898 written 0
+Oct 26 17:15:21 10.71.53.0 u98736630 [10.71.53.0|get|8|7018898|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6173736574312e706e67|]
+Oct 26 17:15:22 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/asset2.png" flags READ mode 0666
+Oct 26 17:15:31 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/asset2.png" bytes read 6874170 written 0
+Oct 26 17:15:31 10.71.53.0 u98736630 [10.71.53.0|get|9|6874170|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6173736574322e706e67|]
+Oct 26 17:15:31 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/asset3.png" flags READ mode 0666
+Oct 26 17:15:40 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/asset3.png" bytes read 7224552 written 0
+Oct 26 17:15:40 10.71.53.0 u98736630 [10.71.53.0|get|9|7224552|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6173736574332e706e67|]
+Oct 26 17:15:40 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/bar.jpg" flags READ mode 0666
+Oct 26 17:15:41 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/bar.jpg" bytes read 190225 written 0
+Oct 26 17:15:41 10.71.53.0 u98736630 [10.71.53.0|get|1|190225|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6261722e6a7067|]
+Oct 26 17:15:41 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/becoming michelle obama.jpg" flags READ mode 0666
+Oct 26 17:15:42 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/becoming michelle obama.jpg" bytes read 39080 written 0
+Oct 26 17:15:42 10.71.53.0 u98736630 [10.71.53.0|get|1|39080|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6265636f6d696e67206d696368656c6c65206f62616d612e6a7067|]
+Oct 26 17:15:42 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/blood diamond.jpg" flags READ mode 0666
+Oct 26 17:15:43 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/blood diamond.jpg" bytes read 23249 written 0
+Oct 26 17:15:43 10.71.53.0 u98736630 [10.71.53.0|get|1|23249|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f626c6f6f64206469616d6f6e642e6a7067|]
+Oct 26 17:15:43 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/book.jpg" flags READ mode 0666
+Oct 26 17:15:44 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/book.jpg" bytes read 24720 written 0
+Oct 26 17:15:44 10.71.53.0 u98736630 [10.71.53.0|get|1|24720|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f626f6f6b2e6a7067|]
+Oct 26 17:15:44 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/boyz.jpg" flags READ mode 0666
+Oct 26 17:15:44 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/boyz.jpg" bytes read 156152 written 0
+Oct 26 17:15:44 10.71.53.0 u98736630 [10.71.53.0|get|0|156152|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f626f797a2e6a7067|]
+Oct 26 17:15:45 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/building.jpg" flags READ mode 0666
+Oct 26 17:15:48 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/building.jpg" bytes read 1571232 written 0
+Oct 26 17:15:48 10.71.53.0 u98736630 [10.71.53.0|get|3|1571232|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6275696c64696e672e6a7067|]
+Oct 26 17:15:48 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/chris brown.jpg" flags READ mode 0666
+Oct 26 17:15:49 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/chris brown.jpg" bytes read 140056 written 0
+Oct 26 17:15:49 10.71.53.0 u98736630 [10.71.53.0|get|1|140056|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f63687269732062726f776e2e6a7067|]
+Oct 26 17:15:49 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/constitution2.png" flags READ mode 0666
+Oct 26 17:15:56 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/constitution2.png" bytes read 7146882 written 0
+Oct 26 17:15:56 10.71.53.0 u98736630 [10.71.53.0|get|7|7146882|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f636f6e737469747574696f6e322e706e67|]
+Oct 26 17:15:57 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/davido.jpg" flags READ mode 0666
+Oct 26 17:15:57 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/davido.jpg" bytes read 61591 written 0
+Oct 26 17:15:57 10.71.53.0 u98736630 [10.71.53.0|get|0|61591|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f64617669646f2e6a7067|]
+Oct 26 17:15:58 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/death.jpg" flags READ mode 0666
+Oct 26 17:15:59 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/death.jpg" bytes read 843714 written 0
+Oct 26 17:15:59 10.71.53.0 u98736630 [10.71.53.0|get|1|843714|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f64656174682e6a7067|]
+Oct 26 17:15:59 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/drake.jpg" flags READ mode 0666
+Oct 26 17:15:59 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/drake.jpg" bytes read 150582 written 0
+Oct 26 17:15:59 10.71.53.0 u98736630 [10.71.53.0|get|0|150582|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6472616b652e6a7067|]
+Oct 26 17:16:00 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/float.jpg" flags READ mode 0666
+Oct 26 17:16:00 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/float.jpg" bytes read 142080 written 0
+Oct 26 17:16:00 10.71.53.0 u98736630 [10.71.53.0|get|0|142080|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f666c6f61742e6a7067|]
+Oct 26 17:16:01 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/funnel.jpg" flags READ mode 0666
+Oct 26 17:16:02 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/funnel.jpg" bytes read 1476276 written 0
+Oct 26 17:16:02 10.71.53.0 u98736630 [10.71.53.0|get|1|1476276|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f66756e6e656c2e6a7067|]
+Oct 26 17:16:03 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/gifted hands.jpg" flags READ mode 0666
+Oct 26 17:16:03 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/gifted hands.jpg" bytes read 36432 written 0
+Oct 26 17:16:03 10.71.53.0 u98736630 [10.71.53.0|get|0|36432|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6769667465642068616e64732e6a7067|]
+Oct 26 17:16:04 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/holy bible.jpg" flags READ mode 0666
+Oct 26 17:16:05 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/holy bible.jpg" bytes read 6807 written 0
+Oct 26 17:16:05 10.71.53.0 u98736630 [10.71.53.0|get|1|6807|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f686f6c79206269626c652e6a7067|]
+Oct 26 17:16:05 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/HUSSIAN.png" flags READ mode 0666
+Oct 26 17:16:06 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/HUSSIAN.png" bytes read 269909 written 0
+Oct 26 17:16:06 10.71.53.0 u98736630 [10.71.53.0|get|1|269909|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f4855535349414e2e706e67|]
+Oct 26 17:16:06 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/In love with the church girl.jpg" flags READ mode 0666
+Oct 26 17:16:07 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/In love with the church girl.jpg" bytes read 68701 written 0
+Oct 26 17:16:07 10.71.53.0 u98736630 [10.71.53.0|get|1|68701|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f496e206c6f766520776974682074686520636875726368206769726c2e6a7067|]
+Oct 26 17:16:07 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/jayz.jpg" flags READ mode 0666
+Oct 26 17:16:08 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/jayz.jpg" bytes read 223117 written 0
+Oct 26 17:16:08 10.71.53.0 u98736630 [10.71.53.0|get|1|223117|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6a61797a2e6a7067|]
+Oct 26 17:16:08 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/laptop2.png" flags READ mode 0666
+Oct 26 17:16:15 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/laptop2.png" bytes read 6282880 written 0
+Oct 26 17:16:15 10.71.53.0 u98736630 [10.71.53.0|get|7|6282880|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6c6170746f70322e706e67|]
+Oct 26 17:16:16 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/laptop4.png" flags READ mode 0666
+Oct 26 17:16:24 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/laptop4.png" bytes read 6282880 written 0
+Oct 26 17:16:24 10.71.53.0 u98736630 [10.71.53.0|get|8|6282880|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6c6170746f70342e706e67|]
+Oct 26 17:16:24 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/law of sucess.jpg" flags READ mode 0666
+Oct 26 17:16:25 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/law of sucess.jpg" bytes read 30541 written 0
+Oct 26 17:16:25 10.71.53.0 u98736630 [10.71.53.0|get|1|30541|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6c6177206f66207375636573732e6a7067|]
+Oct 26 17:16:25 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/law of sucess.webp" flags READ mode 0666
+Oct 26 17:16:25 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/law of sucess.webp" bytes read 6598 written 0
+Oct 26 17:16:25 10.71.53.0 u98736630 [10.71.53.0|get|0|6598|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6c6177206f66207375636573732e77656270|]
+Oct 26 17:16:26 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/live your dream.jpg" flags READ mode 0666
+Oct 26 17:16:26 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/live your dream.jpg" bytes read 24295 written 0
+Oct 26 17:16:26 10.71.53.0 u98736630 [10.71.53.0|get|0|24295|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6c69766520796f757220647265616d2e6a7067|]
+Oct 26 17:16:27 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/love.jpg" flags READ mode 0666
+Oct 26 17:16:27 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/love.jpg" bytes read 182969 written 0
+Oct 26 17:16:27 10.71.53.0 u98736630 [10.71.53.0|get|0|182969|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6c6f76652e6a7067|]
+Oct 26 17:16:27 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/merlin.jpg" flags READ mode 0666
+Oct 26 17:16:28 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/merlin.jpg" bytes read 41129 written 0
+Oct 26 17:16:28 10.71.53.0 u98736630 [10.71.53.0|get|1|41129|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6d65726c696e2e6a7067|]
+Oct 26 17:16:28 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/Movie.jpg" flags READ mode 0666
+Oct 26 17:16:28 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/Movie.jpg" bytes read 38705 written 0
+Oct 26 17:16:28 10.71.53.0 u98736630 [10.71.53.0|get|0|38705|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f4d6f7669652e6a7067|]
+Oct 26 17:16:29 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/mr p.jpeg" flags READ mode 0666
+Oct 26 17:16:29 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/mr p.jpeg" bytes read 24660 written 0
+Oct 26 17:16:29 10.71.53.0 u98736630 [10.71.53.0|get|0|24660|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6d7220702e6a706567|]
+Oct 26 17:16:30 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/music.jpg" flags READ mode 0666
+Oct 26 17:16:30 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/music.jpg" bytes read 45291 written 0
+Oct 26 17:16:30 10.71.53.0 u98736630 [10.71.53.0|get|0|45291|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f6d757369632e6a7067|]
+Oct 26 17:16:30 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/p.jpg" flags READ mode 0666
+Oct 26 17:16:31 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/p.jpg" bytes read 57698 written 0
+Oct 26 17:16:31 10.71.53.0 u98736630 [10.71.53.0|get|1|57698|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f702e6a7067|]
+Oct 26 17:16:31 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/panorama.jpg" flags READ mode 0666
+Oct 26 17:16:31 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/panorama.jpg" bytes read 54553 written 0
+Oct 26 17:16:31 10.71.53.0 u98736630 [10.71.53.0|get|0|54553|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f70616e6f72616d612e6a7067|]
+Oct 26 17:16:32 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/power.jpg" flags READ mode 0666
+Oct 26 17:16:32 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/power.jpg" bytes read 134266 written 0
+Oct 26 17:16:32 10.71.53.0 u98736630 [10.71.53.0|get|0|134266|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f706f7765722e6a7067|]
+Oct 26 17:16:33 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/prision break.jpg" flags READ mode 0666
+Oct 26 17:16:33 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/prision break.jpg" bytes read 34376 written 0
+Oct 26 17:16:33 10.71.53.0 u98736630 [10.71.53.0|get|0|34376|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f70726973696f6e20627265616b2e6a7067|]
+Oct 26 17:16:33 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/Proclamation.jpg" flags READ mode 0666
+Oct 26 17:16:35 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/Proclamation.jpg" bytes read 1600589 written 0
+Oct 26 17:16:35 10.71.53.0 u98736630 [10.71.53.0|get|2|1600589|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f50726f636c616d6174696f6e2e6a7067|]
+Oct 26 17:16:36 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/Rambo.jpg" flags READ mode 0666
+Oct 26 17:16:37 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/Rambo.jpg" bytes read 508106 written 0
+Oct 26 17:16:37 10.71.53.0 u98736630 [10.71.53.0|get|1|508106|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f52616d626f2e6a7067|]
+Oct 26 17:16:38 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/rkelly.jpg" flags READ mode 0666
+Oct 26 17:16:38 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/rkelly.jpg" bytes read 148916 written 0
+Oct 26 17:16:38 10.71.53.0 u98736630 [10.71.53.0|get|1|148916|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f726b656c6c792e6a7067|]
+Oct 26 17:16:38 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/some time in April.jpg" flags READ mode 0666
+Oct 26 17:16:43 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/some time in April.jpg" bytes read 4496155 written 0
+Oct 26 17:16:43 10.71.53.0 u98736630 [10.71.53.0|get|5|4496155|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f736f6d652074696d6520696e20417072696c2e6a7067|]
+Oct 26 17:16:44 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/spartacus.jpg" flags READ mode 0666
+Oct 26 17:16:44 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/spartacus.jpg" bytes read 90377 written 0
+Oct 26 17:16:44 10.71.53.0 u98736630 [10.71.53.0|get|0|90377|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f7370617274616375732e6a7067|]
+Oct 26 17:16:45 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/street.jpg" flags READ mode 0666
+Oct 26 17:16:45 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/street.jpg" bytes read 347159 written 0
+Oct 26 17:16:45 10.71.53.0 u98736630 [10.71.53.0|get|0|347159|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f7374726565742e6a7067|]
+Oct 26 17:16:46 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/superfly.jpg" flags READ mode 0666
+Oct 26 17:16:46 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/superfly.jpg" bytes read 39915 written 0
+Oct 26 17:16:46 10.71.53.0 u98736630 [10.71.53.0|get|0|39915|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f7375706572666c792e6a7067|]
+Oct 26 17:16:47 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/the great controversy.jpg" flags READ mode 0666
+Oct 26 17:16:47 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/the great controversy.jpg" bytes read 39617 written 0
+Oct 26 17:16:47 10.71.53.0 u98736630 [10.71.53.0|get|0|39617|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f74686520677265617420636f6e74726f76657273792e6a7067|]
+Oct 26 17:16:47 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/the rain and the night.jpg" flags READ mode 0666
+Oct 26 17:16:48 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/the rain and the night.jpg" bytes read 190301 written 0
+Oct 26 17:16:48 10.71.53.0 u98736630 [10.71.53.0|get|1|190301|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f746865207261696e20616e6420746865206e696768742e6a7067|]
+Oct 26 17:16:48 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/think and grow rich.png" flags READ mode 0666
+Oct 26 17:16:49 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/think and grow rich.png" bytes read 57967 written 0
+Oct 26 17:16:49 10.71.53.0 u98736630 [10.71.53.0|get|1|57967|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f7468696e6b20616e642067726f7720726963682e706e67|]
+Oct 26 17:16:49 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/think big.jpg" flags READ mode 0666
+Oct 26 17:16:49 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/think big.jpg" bytes read 46244 written 0
+Oct 26 17:16:49 10.71.53.0 u98736630 [10.71.53.0|get|0|46244|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f7468696e6b206269672e6a7067|]
+Oct 26 17:16:50 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/usher.jpg" flags READ mode 0666
+Oct 26 17:16:50 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/usher.jpg" bytes read 137834 written 0
+Oct 26 17:16:50 10.71.53.0 u98736630 [10.71.53.0|get|0|137834|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f75736865722e6a7067|]
+Oct 26 17:16:51 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/walk.jpg" flags READ mode 0666
+Oct 26 17:16:51 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/walk.jpg" bytes read 270621 written 0
+Oct 26 17:16:51 10.71.53.0 u98736630 [10.71.53.0|get|0|270621|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f77616c6b2e6a7067|]
+Oct 26 17:16:52 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/westlife.jpg" flags READ mode 0666
+Oct 26 17:16:52 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/westlife.jpg" bytes read 51926 written 0
+Oct 26 17:16:52 10.71.53.0 u98736630 [10.71.53.0|get|0|51926|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f776573746c6966652e6a7067|]
+Oct 26 17:16:53 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/img/womensrights.jpg" flags READ mode 0666
+Oct 26 17:16:54 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/img/womensrights.jpg" bytes read 1140663 written 0
+Oct 26 17:16:54 10.71.53.0 u98736630 [10.71.53.0|get|1|1140663|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696d672f776f6d656e737269676874732e6a7067|]
+Oct 26 17:16:55 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/12things.html" flags READ mode 0666
+Oct 26 17:16:55 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/12things.html" bytes read 1002 written 0
+Oct 26 17:16:55 10.71.53.0 u98736630 [10.71.53.0|get|0|1002|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f31327468696e67732e68746d6c|]
+Oct 26 17:16:55 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/bak.index.html" flags READ mode 0666
+Oct 26 17:16:55 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/bak.index.html" bytes read 1797 written 0
+Oct 26 17:16:55 10.71.53.0 u98736630 [10.71.53.0|get|0|1797|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f62616b2e696e6465782e68746d6c|]
+Oct 26 17:16:56 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/bands.html" flags READ mode 0666
+Oct 26 17:16:56 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/bands.html" bytes read 2019 written 0
+Oct 26 17:16:56 10.71.53.0 u98736630 [10.71.53.0|get|0|2019|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f62616e64732e68746d6c|]
+Oct 26 17:16:57 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/books.html" flags READ mode 0666
+Oct 26 17:16:57 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/books.html" bytes read 2040 written 0
+Oct 26 17:16:57 10.71.53.0 u98736630 [10.71.53.0|get|0|2040|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f626f6f6b732e68746d6c|]
+Oct 26 17:16:57 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/constitution.html" flags READ mode 0666
+Oct 26 17:16:57 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/constitution.html" bytes read 3204 written 0
+Oct 26 17:16:57 10.71.53.0 u98736630 [10.71.53.0|get|0|3204|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f636f6e737469747574696f6e2e68746d6c|]
+Oct 26 17:16:58 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/index.html" flags READ mode 0666
+Oct 26 17:16:58 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/index.html" bytes read 3603 written 0
+Oct 26 17:16:58 10.71.53.0 u98736630 [10.71.53.0|get|0|3603|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f696e6465782e68746d6c|]
+Oct 26 17:16:59 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/Inside philly.html" flags READ mode 0666
+Oct 26 17:16:59 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/Inside philly.html" bytes read 3106 written 0
+Oct 26 17:16:59 10.71.53.0 u98736630 [10.71.53.0|get|0|3106|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f496e73696465207068696c6c792e68746d6c|]
+Oct 26 17:16:59 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/movies.html" flags READ mode 0666
+Oct 26 17:17:00 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/movies.html" bytes read 2118 written 0
+Oct 26 17:17:00 10.71.53.0 u98736630 [10.71.53.0|get|1|2118|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f6d6f766965732e68746d6c|]
+Oct 26 17:17:00 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/cc/ticket page.html" flags READ mode 0666
+Oct 26 17:17:00 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/cc/ticket page.html" bytes read 267 written 0
+Oct 26 17:17:00 10.71.53.0 u98736630 [10.71.53.0|get|0|267|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f63632f7469636b657420706167652e68746d6c|]
+Oct 26 17:17:01 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/1paiveyResume.pdf" flags READ mode 0666
+Oct 26 17:17:01 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/1paiveyResume.pdf" bytes read 225994 written 0
+Oct 26 17:17:01 10.71.53.0 u98736630 [10.71.53.0|get|0|225994|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f31706169766579526573756d652e706466|]
+Oct 26 17:17:02 10.71.53.0 u98736630 open "/_archive/downloads/untitled/projects/paiveyCResume.pdf" flags READ mode 0666
+Oct 26 17:17:02 10.71.53.0 u98736630 close "/_archive/downloads/untitled/projects/paiveyCResume.pdf" bytes read 195915 written 0
+Oct 26 17:17:02 10.71.53.0 u98736630 [10.71.53.0|get|0|195915|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f70726f6a656374732f70616976657943526573756d652e706466|]
+Oct 26 17:17:04 10.71.53.0 u98736630 open "/_archive/downloads/untitled/12things.html" flags READ mode 0666
+Oct 26 17:17:04 10.71.53.0 u98736630 close "/_archive/downloads/untitled/12things.html" bytes read 1002 written 0
+Oct 26 17:17:04 10.71.53.0 u98736630 [10.71.53.0|get|0|1002|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f31327468696e67732e68746d6c|]
+Oct 26 17:17:05 10.71.53.0 u98736630 open "/_archive/downloads/untitled/2672065072.zip" flags READ mode 0666
+Oct 26 17:17:05 10.71.53.0 u98736630 close "/_archive/downloads/untitled/2672065072.zip" bytes read 220532 written 0
+Oct 26 17:17:05 10.71.53.0 u98736630 [10.71.53.0|get|0|220532|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f323637323036353037322e7a6970|]
+Oct 26 17:17:06 10.71.53.0 u98736630 open "/_archive/downloads/untitled/51LAgoYYCVL._SX320_BO1,204,203,200_.jpg" flags READ mode 0666
+Oct 26 17:17:06 10.71.53.0 u98736630 close "/_archive/downloads/untitled/51LAgoYYCVL._SX320_BO1,204,203,200_.jpg" bytes read 40737 written 0
+Oct 26 17:17:06 10.71.53.0 u98736630 [10.71.53.0|get|0|40737|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f35314c41676f595943564c2e5f53583332305f424f312c3230342c3230332c3230305f2e6a7067|]
+Oct 26 17:17:07 10.71.53.0 u98736630 open "/_archive/downloads/untitled/asset1.png" flags READ mode 0666
+Oct 26 17:17:15 10.71.53.0 u98736630 close "/_archive/downloads/untitled/asset1.png" bytes read 7018898 written 0
+Oct 26 17:17:15 10.71.53.0 u98736630 [10.71.53.0|get|8|7018898|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f6173736574312e706e67|]
+Oct 26 17:17:15 10.71.53.0 u98736630 open "/_archive/downloads/untitled/BAK.INDEX.html" flags READ mode 0666
+Oct 26 17:17:16 10.71.53.0 u98736630 close "/_archive/downloads/untitled/BAK.INDEX.html" bytes read 229 written 0
+Oct 26 17:17:16 10.71.53.0 u98736630 [10.71.53.0|get|1|229|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f42414b2e494e4445582e68746d6c|]
+Oct 26 17:17:16 10.71.53.0 u98736630 open "/_archive/downloads/untitled/bands.html" flags READ mode 0666
+Oct 26 17:17:16 10.71.53.0 u98736630 close "/_archive/downloads/untitled/bands.html" bytes read 2104 written 0
+Oct 26 17:17:16 10.71.53.0 u98736630 [10.71.53.0|get|0|2104|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f62616e64732e68746d6c|]
+Oct 26 17:17:17 10.71.53.0 u98736630 open "/_archive/downloads/untitled/bar.jpg" flags READ mode 0666
+Oct 26 17:17:17 10.71.53.0 u98736630 close "/_archive/downloads/untitled/bar.jpg" bytes read 190225 written 0
+Oct 26 17:17:17 10.71.53.0 u98736630 [10.71.53.0|get|0|190225|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f6261722e6a7067|]
+Oct 26 17:17:18 10.71.53.0 u98736630 open "/_archive/downloads/untitled/books.html" flags READ mode 0666
+Oct 26 17:17:18 10.71.53.0 u98736630 close "/_archive/downloads/untitled/books.html" bytes read 2935 written 0
+Oct 26 17:17:18 10.71.53.0 u98736630 [10.71.53.0|get|0|2935|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f626f6f6b732e68746d6c|]
+Oct 26 17:17:18 10.71.53.0 u98736630 open "/_archive/downloads/untitled/Bootcamp.html" flags READ mode 0666
+Oct 26 17:17:18 10.71.53.0 u98736630 close "/_archive/downloads/untitled/Bootcamp.html" bytes read 2310 written 0
+Oct 26 17:17:18 10.71.53.0 u98736630 [10.71.53.0|get|0|2310|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f426f6f7463616d702e68746d6c|]
+Oct 26 17:17:19 10.71.53.0 u98736630 open "/_archive/downloads/untitled/building.jpg" flags READ mode 0666
+Oct 26 17:17:20 10.71.53.0 u98736630 close "/_archive/downloads/untitled/building.jpg" bytes read 1571232 written 0
+Oct 26 17:17:20 10.71.53.0 u98736630 [10.71.53.0|get|1|1571232|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f6275696c64696e672e6a7067|]
+Oct 26 17:17:21 10.71.53.0 u98736630 open "/_archive/downloads/untitled/card.jpg" flags READ mode 0666
+Oct 26 17:17:23 10.71.53.0 u98736630 close "/_archive/downloads/untitled/card.jpg" bytes read 688128 written 0
+Oct 26 17:17:23 10.71.53.0 u98736630 [10.71.53.0|get|2|688128|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f636172642e6a7067|]
+Oct 26 17:17:23 10.71.53.0 u98736630 open "/_archive/downloads/untitled/constitution.html" flags READ mode 0666
+Oct 26 17:17:24 10.71.53.0 u98736630 close "/_archive/downloads/untitled/constitution.html" bytes read 2846 written 0
+Oct 26 17:17:24 10.71.53.0 u98736630 [10.71.53.0|get|1|2846|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f636f6e737469747574696f6e2e68746d6c|]
+Oct 26 17:17:24 10.71.53.0 u98736630 open "/_archive/downloads/untitled/Experience.html" flags READ mode 0666
+Oct 26 17:17:24 10.71.53.0 u98736630 close "/_archive/downloads/untitled/Experience.html" bytes read 2171 written 0
+Oct 26 17:17:24 10.71.53.0 u98736630 [10.71.53.0|get|0|2171|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f457870657269656e63652e68746d6c|]
+Oct 26 17:17:25 10.71.53.0 u98736630 open "/_archive/downloads/untitled/index.html" flags READ mode 0666
+Oct 26 17:17:25 10.71.53.0 u98736630 close "/_archive/downloads/untitled/index.html" bytes read 4298 written 0
+Oct 26 17:17:25 10.71.53.0 u98736630 [10.71.53.0|get|0|4298|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f696e6465782e68746d6c|]
+Oct 26 17:17:26 10.71.53.0 u98736630 open "/_archive/downloads/untitled/Insidephilly.html" flags READ mode 0666
+Oct 26 17:17:26 10.71.53.0 u98736630 close "/_archive/downloads/untitled/Insidephilly.html" bytes read 1998 written 0
+Oct 26 17:17:26 10.71.53.0 u98736630 [10.71.53.0|get|0|1998|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f496e736964657068696c6c792e68746d6c|]
+Oct 26 17:17:27 10.71.53.0 u98736630 open "/_archive/downloads/untitled/learned.html" flags READ mode 0666
+Oct 26 17:17:27 10.71.53.0 u98736630 close "/_archive/downloads/untitled/learned.html" bytes read 141 written 0
+Oct 26 17:17:27 10.71.53.0 u98736630 [10.71.53.0|get|0|141|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f6c6561726e65642e68746d6c|]
+Oct 26 17:17:27 10.71.53.0 u98736630 open "/_archive/downloads/untitled/movies.html" flags READ mode 0666
+Oct 26 17:17:28 10.71.53.0 u98736630 close "/_archive/downloads/untitled/movies.html" bytes read 4029 written 0
+Oct 26 17:17:28 10.71.53.0 u98736630 [10.71.53.0|get|1|4029|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f6d6f766965732e68746d6c|]
+Oct 26 17:17:28 10.71.53.0 u98736630 open "/_archive/downloads/untitled/tickets.html" flags READ mode 0666
+Oct 26 17:17:29 10.71.53.0 u98736630 close "/_archive/downloads/untitled/tickets.html" bytes read 497 written 0
+Oct 26 17:17:29 10.71.53.0 u98736630 [10.71.53.0|get|1|497|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f7469636b6574732e68746d6c|]
+Oct 26 17:17:29 10.71.53.0 u98736630 open "/_archive/downloads/untitled/Week1.html" flags READ mode 0666
+Oct 26 17:17:29 10.71.53.0 u98736630 close "/_archive/downloads/untitled/Week1.html" bytes read 2171 written 0
+Oct 26 17:17:29 10.71.53.0 u98736630 [10.71.53.0|get|0|2171|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f5765656b312e68746d6c|]
+Oct 26 17:17:30 10.71.53.0 u98736630 open "/_archive/downloads/untitled/Week2.html" flags READ mode 0666
+Oct 26 17:17:30 10.71.53.0 u98736630 close "/_archive/downloads/untitled/Week2.html" bytes read 1614 written 0
+Oct 26 17:17:30 10.71.53.0 u98736630 [10.71.53.0|get|0|1614|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f5765656b322e68746d6c|]
+Oct 26 17:17:30 10.71.53.0 u98736630 open "/_archive/downloads/untitled/Week3.html" flags READ mode 0666
+Oct 26 17:17:31 10.71.53.0 u98736630 close "/_archive/downloads/untitled/Week3.html" bytes read 2066 written 0
+Oct 26 17:17:31 10.71.53.0 u98736630 [10.71.53.0|get|1|2066|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f5765656b332e68746d6c|]
+Oct 26 17:17:31 10.71.53.0 u98736630 open "/_archive/downloads/untitled/Week4.html" flags READ mode 0666
+Oct 26 17:17:31 10.71.53.0 u98736630 close "/_archive/downloads/untitled/Week4.html" bytes read 1370 written 0
+Oct 26 17:17:31 10.71.53.0 u98736630 [10.71.53.0|get|0|1370|0|0|0|2f5f617263686976652f646f776e6c6f6164732f756e7469746c65642f5765656b342e68746d6c|]
+Oct 26 17:17:32 10.71.53.0 u98736630 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Oct 26 17:17:32 10.71.53.0 u98736630 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Oct 26 17:17:32 10.71.53.0 u98736630 [10.71.53.0|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Oct 26 17:17:33 10.71.53.0 u98736630 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Oct 26 17:17:33 10.71.53.0 u98736630 sent status Permission denied
+Oct 26 17:17:33 10.71.53.0 u98736630 open "/logs/traffic.html/09.html" flags READ mode 0666
+Oct 26 17:17:33 10.71.53.0 u98736630 close "/logs/traffic.html/09.html" bytes read 1333 written 0
+Oct 26 17:17:33 10.71.53.0 u98736630 [10.71.53.0|get|0|1333|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Oct 26 17:17:34 10.71.53.0 u98736630 open "/logs/traffic.html/10.html" flags READ mode 0666
+Oct 26 17:17:34 10.71.53.0 u98736630 close "/logs/traffic.html/10.html" bytes read 2701 written 0
+Oct 26 17:17:34 10.71.53.0 u98736630 [10.71.53.0|get|0|2701|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Oct 26 17:17:35 10.71.53.0 u98736630 open "/logs/traffic.html/index.html" flags READ mode 0666
+Oct 26 17:17:35 10.71.53.0 u98736630 close "/logs/traffic.html/index.html" bytes read 2961 written 0
+Oct 26 17:17:35 10.71.53.0 u98736630 [10.71.53.0|get|0|2961|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Oct 26 17:17:36 10.71.53.0 u98736630 open "/logs/.htaccess" flags READ mode 0666
+Oct 26 17:17:36 10.71.53.0 u98736630 close "/logs/.htaccess" bytes read 267 written 0
+Oct 26 17:17:36 10.71.53.0 u98736630 [10.71.53.0|get|0|267|0|0|0|2f6c6f67732f2e6874616363657373|]
+Oct 26 17:17:37 10.71.53.0 u98736630 open "/logs/access.log.40.gz" flags READ mode 0666
+Oct 26 17:17:37 10.71.53.0 u98736630 close "/logs/access.log.40.gz" bytes read 2471 written 0
+Oct 26 17:17:37 10.71.53.0 u98736630 [10.71.53.0|get|0|2471|0|0|0|2f6c6f67732f6163636573732e6c6f672e34302e677a|]
+Oct 26 17:17:37 10.71.53.0 u98736630 open "/logs/access.log.41.gz" flags READ mode 0666
+Oct 26 17:17:38 10.71.53.0 u98736630 close "/logs/access.log.41.gz" bytes read 601 written 0
+Oct 26 17:17:38 10.71.53.0 u98736630 [10.71.53.0|get|1|601|0|0|0|2f6c6f67732f6163636573732e6c6f672e34312e677a|]
+Oct 26 17:17:38 10.71.53.0 u98736630 open "/logs/access.log.43.6" flags READ mode 0666
+Oct 26 17:17:38 10.71.53.0 u98736630 close "/logs/access.log.43.6" bytes read 1279 written 0
+Oct 26 17:17:38 10.71.53.0 u98736630 [10.71.53.0|get|0|1279|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e36|]
+Oct 26 17:17:39 10.71.53.0 u98736630 open "/logs/access.log.current" flags READ mode 0666
+Oct 26 17:17:39 10.71.53.0 u98736630 close "/logs/access.log.current" bytes read 1279 written 0
+Oct 26 17:17:39 10.71.53.0 u98736630 [10.71.53.0|get|0|1279|0|0|0|2f6c6f67732f6163636573732e6c6f672e63757272656e74|]
+Oct 26 17:17:40 10.71.53.0 u98736630 open "/logs/info.php5" flags READ mode 0666
+Oct 26 17:17:40 10.71.53.0 u98736630 close "/logs/info.php5" bytes read 21 written 0
+Oct 26 17:17:40 10.71.53.0 u98736630 [10.71.53.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Oct 26 17:17:42 10.71.53.0 u98736630 open "/logs/info.pl" flags READ mode 0666
+Oct 26 17:17:42 10.71.53.0 u98736630 close "/logs/info.pl" bytes read 4176 written 0
+Oct 26 17:17:42 10.71.53.0 u98736630 [10.71.53.0|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Oct 26 17:17:43 10.71.53.0 u98736630 open "/logs/info.py" flags READ mode 0666
+Oct 26 17:17:43 10.71.53.0 u98736630 close "/logs/info.py" bytes read 6384 written 0
+Oct 26 17:17:43 10.71.53.0 u98736630 [10.71.53.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Oct 26 17:17:43 10.71.53.0 u98736630 open "/logs/last_traffic" flags READ mode 0666
+Oct 26 17:17:44 10.71.53.0 u98736630 close "/logs/last_traffic" bytes read 0 written 0
+Oct 26 17:17:44 10.71.53.0 u98736630 [10.71.53.0|get|1|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Oct 26 17:17:44 10.71.53.0 u98736630 open "/logs/sftp.log" flags READ mode 0666
